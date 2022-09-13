@@ -33,6 +33,32 @@ main_dropdown:
        url: /textbooks/       
 
 offering_menus:
+ -
+    term: F22
+    baseurl: /f22
+    items: 
+      - title: Hwk
+        url: /hwk/
+        description: "Homework Assignments"
+      - title: Lab
+        url: /lab/
+        description: "Lab Assignments"
+      - title: Lecture
+        url: /lectures/
+        description: "Lecture"
+      - title: Software
+        url: /info/software/
+        description: "Software"
+      - title: Cal
+        url: /info/calendar/
+        description: "Assignment Calendar"
+      - title: Github
+        dropdown:
+           - title: ucsb-cs156-f22
+             url: https://github.com/ucsb-cs156-f22
+      - title: "More..."
+        url: /info/
+        description: "More Information"
   -
     term: S22
     baseurl: /s22

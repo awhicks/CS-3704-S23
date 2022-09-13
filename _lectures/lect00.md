@@ -1,21 +1,16 @@
 ---
 num: "Lecture 00"
-lecture_date: 2022-03-29
+lecture_date: 2022-09-22
 desc: "Introduction to CS156"
 ready: true
 ---
 
-<div style="display:none;">https://ucsb-cs156.github.io/s22/lectures/lect00
+<div style="display:none;">https://ucsb-cs156.github.io/f22/lectures/lect00
 </div>
 
 # Please sit with your team:
 
 <img alt="Seating Chart" src="https://user-images.githubusercontent.com/1119017/160303067-70299459-1cdd-4689-86f2-2505bae1b0a0.png" width=800 />
-
-
-# Announcement from one of your classmates:
-
-![image](https://user-images.githubusercontent.com/1119017/160303022-ad51487a-ea2d-484a-b658-fdb8e90f6296.png)
 
 
 # My special passion: Teaching real world software practice
@@ -69,7 +64,7 @@ Also note the Calendar where you can keep track of things that are due: <https:/
 
 Here:
 
-* <https://ucsb-cs156.github.io/s22/info/syllabus/>
+* <https://ucsb-cs156.github.io/f22/info/syllabus/>
 
 # A few items from syllabus
 
@@ -89,17 +84,17 @@ How the project grade works:
 
 # Getting Started With Java Programming
 
-The first programming assignment is here: <https://ucsb-cs156.github.io/s22/lab/jpa00/>
+The first programming assignment is here: <https://ucsb-cs156.github.io/f22/lab/jpa00/>
 
 * `jpa00` stands for "Java Programming Assignment 00".
 * We'll also have some JavaScript programming assignments; they will be numbered starting from `jspa00`
 * `jpa00` is an autograded assignment; you'll submit it via Gradescope.
 * It's pretty straightforward; you should be able to complete it by the end of the week, even if you've never programming in Java before; it's pretty much just a "Hello, World" type assignment.
-* If you already joined the GitHub org, you should have a private repo already created for you in the github organization <https://github.com/ucsb-cs156-s22> for this assignment.
+* If you already joined the GitHub org, you should have a private repo already created for you in the github organization <https://github.com/ucsb-cs156-f22> for this assignment.
 * The name of the repo is `jpa00-yourGithubId` 
-* If you didn't join the GitHub org yet, or joined it *very* recently, then your repo might not exist yet; you can ask for help with getting it created on the [`#help-jpa00`](https://ucsb-cs156-s22.slack.com/archives/C02RDGC2LK0) channel on the slack.  This is also where you can ask for help with anything else pertaining to this assignment.
+* If you didn't join the GitHub org yet, or joined it *very* recently, then your repo might not exist yet; you can ask for help with getting it created on the [`#help-jpa00`](https://ucsb-cs156-f22.slack.com/archives/C02RDGC2LK0) channel on the slack.  This is also where you can ask for help with anything else pertaining to this assignment.
 
-The second programming assignment, [jpa01](https://ucsb-cs156.github.io/s22/lab/jpa01/) is a bit more challenging, since it
+The second programming assignment, [jpa01](https://ucsb-cs156.github.io/f22/lab/jpa01/) is a bit more challenging, since it
 deals with something called "mutation testing" that may be new to you.
 I'll cover some of that in lecture on Wednesday.
 
@@ -113,7 +108,7 @@ Literally, right now, during class.
 
 * Login at https://ucsb-cs-github-linker.herokuapp.com with your GitHub id
 * Navigate to the home page.
-* Click to join `ucsb-cs156-s22`.  This generates an invitation
+* Click to join `ucsb-cs156-f22`.  This generates an invitation
 * THEN... click at the top of the page to accept the invitation
 
 If you get the message that your "email didn't match anyone on the course roster", then:
@@ -126,22 +121,22 @@ do that now.
 
 # Homework 
 
-## For tomorrow (Wednesday discussion)
+## For next Wednesday's discussion section 
 
-* Before tomorrow night's discussion seciton, skim this article: <https://pconrad.github.io/files/paper028.pdf>
-  - For tomorrow night, Read all of the "abstract" and Section 1 (about 1 page), and skim through Section 4 (about 5 pages)
-  - During discussion section tomorrow, you'll be dividing up the six parts of section 4 among the team members,
-    and then doing a more detailed read for a homework assignment due on Monday (<https://ucsb-cs156.github.io/s21/hwk/h01/>)
+* Before next Wednesday's discussion seciton, skim this article: <https://pconrad.github.io/files/paper028.pdf>
+  - Read all of the "abstract" and Section 1 (about 1 page), and skim through Section 4 (about 5 pages)
+  - During discussion next Wednesday, you'll be dividing up the six parts of section 4 among the team members,
+    and then doing a more detailed read for a homework assignment due later (<https://ucsb-cs156.github.io/f22/hwk/h02/>)
 
 * As you read, be prepared to discuss the ways in which developers felt unprepared, 
   and what experiences they wish they had during their courses at University.
 
   The point of reading this paper is to try to understand *why* this course is structured the way it is.
 
-# Reading in the Textbook (reading for H00 due Friday).
+# Reading in the Textbook (reading for H00 due Tuesday).
 
 
-This homework assignment due Friday is based on:
+This homework assignment due Tuesday is based on:
 
 * Chapters 1 and 2 of Head First Java 2nd Edition (HFJ2), and Chapter 1 on Java in a Nutshell, 7th Edition (JN7).
 * We also have one question about material on pages 372-373 on JN7, the section titled "Slow Adoption Rates".  Please read that one short section as well.
@@ -150,10 +145,6 @@ This homework assignment due Friday is based on:
   - Start here: <https://www.oreilly.com/library/view/temporary-access/>, and select UC Santa Barbara from the dropdown menu.
   - Then, search for "Head First Java, 2nd edition" or "Java in a Nutshell, 7th Edition" once you are online.
   - We may make use of other online books available through this resource.
-
-# Homework H00 due Friday
-
-<https://ucsb-cs156.github.io/s22/hwk/h00>
 
 
 # What will we learn in this class:
@@ -174,11 +165,11 @@ Legacy Applications: They existed before this course started, and will continue 
 
 # Logistics
 
-* Check website for software to install <https://ucsb-cs156.github.io/s22/info/software/>
+* Check website for software to install <https://ucsb-cs156.github.io/f22/info/software/>
 * Check email for:
   * Research survey invitation (coming soon)
   * Slack invitation
-* Join ucsb-cs156-s22 github org
+* Join ucsb-cs156-f22 github org
   * Create account at github.com
   * Add your @ucsb.edu or @umail.ucsb.edu email address (either one)
   * Visit <https://ucsb-cs-github-linker.herokuapp.com> and login with your github username/password
@@ -190,7 +181,7 @@ Legacy Applications: They existed before this course started, and will continue 
 # Where can you find info in this class?
 
 * Textbooks
-   * [HFJ](https://ucsb-cs156.github.io/textbooks/HFJ) - Head First Java, 2nd editino
+   * [HFJ](https://ucsb-cs156.github.io/textbooks/HFJ3) - Head First Java, 2nd editino
    * [JN7](https://ucsb-cs156.github.io/textbooks/JN7) - Java in a Nutshell, 7th edition
 * Website: <https://ucsb-cs156.github.io>
    * Especially under <https://ucsb-cs156.github.io/topics>
@@ -203,8 +194,8 @@ We'll now separate into teams, (and/or go into breakout rooms if online) and you
 Teams are by discussion section; there are three discussion sections, and 4 teams per discussion section.
 
 Team assignments, and the mapping from teams to staff (LAs/TAs) is listed here:
-* <https://ucsb-cs156.github.io/s22/info/teams/>
-* You can find this link on the course website, <https://ucsb-cs156.github.io/s22> under "More..." then Teams.
+* <https://ucsb-cs156.github.io/f22/info/teams/>
+* You can find this link on the course website, <https://ucsb-cs156.github.io/f22> under "More..." then Teams.
 
 Note that while the instructor, or a TA or LA might drop in on your Breakout Room, they are not the discussion leader.  You need to self-organize to run your own 
 breakout room discussion.
@@ -222,7 +213,7 @@ This part is 40% of your participation grade for today (P00 on Gauchospace)
  
 2. Everyone log in to the Slack in another window (Zoom open in one window, slack in another.)
    
-   Everyone find the Slack channel for your team.  It will have a name such as `s22-5pm-3`.   Everyone on the team join that channel, and introduce yourself
+   Everyone find the Slack channel for your team.  It will have a name such as `f22-5pm-3`.   Everyone on the team join that channel, and introduce yourself
    with a post.
    
    The post should include
