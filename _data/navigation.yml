@@ -33,7 +33,7 @@ main_dropdown:
        url: /textbooks/       
 
 offering_menus:
- -
+  -
     term: F22
     baseurl: /f22
     items: 
