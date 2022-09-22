@@ -102,6 +102,8 @@ For Mac users, instructions for installing with Homebrew appear below.
 
 ## Recommmended for MacOS Users
 
+If you have questions about this section, please ask on the [`#help-macos`](https://ucsb-cs156-f22.slack.com/archives/C0449H05QQG) channel on the Slack
+
 1. Command Line Tools XCode for MacOS, including `git`
 
    On MacOS, `git` typically gets installed as part of the "Command Line XCode Tools" the first time you ask to use it.  To be sure that `git` is installed,
