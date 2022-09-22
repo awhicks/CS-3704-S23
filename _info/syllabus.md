@@ -1,5 +1,5 @@
 ---
-title: "Syllabus, CMPSC 156, Winter 2022"
+title: "Syllabus, CMPSC 156, Fall 2022"
 layout: handout
 ready: true
 ---
@@ -11,19 +11,19 @@ Basic Facts
 * **Instructor**:  [Phill Conrad](http://www.cs.ucsb.edu/~pconrad) (contact via Slack)
    * Use the "instructor messsage" feature to contact Prof. Conrad, as well as all TAs, Readers and Mentors
 * **Lecture**:
-   * Tue/Thu 2pm-3:15pm 
+   * Tue/Thu 5pm-6:15pm 
    * You are expected to participate synchronously.  The mode of instruction is "in-person".
    * While there will be *some* lecture material (recorded and made available asynchronously over Zoom), in most class meetings there will be some 
      activities that are done in teams during the class meeting time.  There is no meaningful way these activities can be
      "recorded", done asynchronously, or "made up" after the fact, since the skills we are teaching and learning are *team* skills.   
 * **TAs**: {{site.ta_list_full}} (contact via Slack)
 * **Lab** (50 minute discussion section)
-  * Tuesday {{site.discussion_section_times}}
+  * Wednesday {{site.discussion_section_times}}
   * Attendance/Participation is expected/required.
   * You must participate the section for which you are registered, since teams are assigned by section.
 * Office Hours: See: <http://www.cs.ucsb.edu/~pconrad/ofchrs>  
 
-Course website: <https://ucsb-cs156.github.io/s22/>
+Course website: <https://ucsb-cs156.github.io/f22/>
 
 About the Course
 ----------------
@@ -71,7 +71,7 @@ Your grade will be made up of activities from the following categories:
 * PAs (Auto-Graded Programming assignments) (20 %) - jpa00 is an example of these programming assignments.  None of these will be dropped; you are
   responsible for all of them.   This may include individual assignments (such as jpa00), pair assignments, and/or team assignments.
 
-* Exams (Auto-Graded Programming assignments) (25 %) - If conditions permit, we will have two in-person written exams; a midterm and an final. There are two contingencies in case conditions change:
+* Exams (25 %) - If conditions permit, we will have two in-person written exams; a midterm and an final. There are two contingencies in case conditions change:
   - The instructor may substitute a "take-home" exam for either of the in-person exams.
   - If only one exam is offered, it will be worth 25% of your grade.
   - If is not possible to hold any exams, these points will be distributed instead among the other course components. 
