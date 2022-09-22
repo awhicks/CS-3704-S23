@@ -209,11 +209,11 @@ It turns out that almost everything in terms of installing software (Java, Maven
 Therefore we strongly suggest that if you have a Windows environment, you install the Windows Subsystem for Linux (WSL) and then follow the 
 instructions under Linux/WSL.
    
-If you are unable to install WSL because of limitations on your machine, please reach out to the course staff via Slack using the [help-windows channel on Slack](https://ucsb-cs156-s22.slack.com/archives/C02SY4JSJ3S).   In that case, we will try to find an alternative for you.
+If you are unable to install WSL because of limitations on your machine, please reach out to the course staff via Slack using the [#help-windows]() channel on Slack.   In that case, we will try to find an alternative for you.
  
 ## Recommended for Linux/WSL Users
  
-Instructions for installing Windows Subsystem for Linux (WSL), as well as environment setup instructions for Ubuntu systems, is available here: <https://ucsb-cs156.github.io/topics/windows_wsl/>
+Instructions for installing Windows Subsystem for Linux (WSL), as well as environment setup instructions for Ubuntu systems, is available here: [https://ucsb-cs156.github.io/topics/windows_wsl/](https://ucsb-cs156.github.io/topics/windows/windows_wsl.html)
 
 The following programs will be installed in the above guide:
 
