@@ -10,7 +10,9 @@ ready: true
 
 # Please sit with your team:
 
-<img alt="Seating Chart" src="https://user-images.githubusercontent.com/1119017/160303067-70299459-1cdd-4689-86f2-2505bae1b0a0.png" width=800 />
+Team listing is here: <https://bit.ly/cs156-f22-teams>
+
+![SH1431-F22-updated](https://user-images.githubusercontent.com/1119017/191854530-810658ef-184a-4fae-bd10-e0d89fce8efa.png)
 
 
 # My special passion: Teaching real world software practice
