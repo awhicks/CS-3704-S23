@@ -63,7 +63,7 @@ Instructions on installing these follow below.
      | Platform | Text Instructions | YouTube Video Instructions |
      |-|-|-|
      | MacOS | [Text](https://ucsb-cs156.github.io/topics/csil_mount_drive_to_macOs_using_samba/)  | [Video](https://youtu.be/FTlxjhjwbt0) |
-     | Windows | [Text](https://ucsb-cs156.github.io/topics/csil_mount_drive_to_windows_using_samba/) | [Video](https://www.youtube.com/watch?v=fgORcrGWBH0) |
+     | Windows | [Text](https://ucsb-cs156.github.io/topics/CSIL/csil_mount_drive_to_windows_using_samba.html) | [Video](https://www.youtube.com/watch?v=fgORcrGWBH0) |
      | Linux | (ask staff) | |
      {:.table .table-sm .table-striped .table-bordered}
 
