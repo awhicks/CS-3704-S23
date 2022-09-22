@@ -86,6 +86,8 @@ Grade breakdown:
 
 # First Homework assignments
 
+* See course website under Hwk, or see the Calendar
+  - There are three due next week!
 * Reading in the textbooks: Use <https://bit.ly/ucsb-or> to get online access
 * Then use:
   - <https://bit.ly/or-hfj3> Head First Java, 3rd Edition
