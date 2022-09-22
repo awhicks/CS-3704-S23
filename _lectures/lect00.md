@@ -51,16 +51,15 @@ Helping prepare you for transition from "Computer Science Student" to "Professio
   - Typically try to keep instructions to 5-15 minutes
   - 35-45 minutes with your teams
 
-
 # The course website
 
 Here: <https://ucsb-cs156.github.io>
 
 Note the two parts:
 * Permanent part for CS156
-* The part for /s22/ specifically
+* The part for `/f22/` specifically
 
-Also note the Calendar where you can keep track of things that are due: <https://ucsb-cs156.github.io/s22/info/calendar/>
+Also note the Calendar where you can keep track of things that are due: <https://ucsb-cs156.github.io/f22/info/calendar/>
 
 # Where is the syllabus?
 
@@ -84,69 +83,33 @@ How the project grade works:
 * 25% of your course grade
 * It's a team grade, with a peer-review adjustment (via CATME.org peer reviews).
 
-# Getting Started With Java Programming
+# First Homework assignments
 
-The first programming assignment is here: <https://ucsb-cs156.github.io/f22/lab/jpa00/>
-
-* `jpa00` stands for "Java Programming Assignment 00".
-* We'll also have some JavaScript programming assignments; they will be numbered starting from `jspa00`
-* `jpa00` is an autograded assignment; you'll submit it via Gradescope.
-* It's pretty straightforward; you should be able to complete it by the end of the week, even if you've never programming in Java before; it's pretty much just a "Hello, World" type assignment.
-* If you already joined the GitHub org, you should have a private repo already created for you in the github organization <https://github.com/ucsb-cs156-f22> for this assignment.
-* The name of the repo is `jpa00-yourGithubId` 
-* If you didn't join the GitHub org yet, or joined it *very* recently, then your repo might not exist yet; you can ask for help with getting it created on the [`#help-jpa00`](https://ucsb-cs156-f22.slack.com/archives/C02RDGC2LK0) channel on the slack.  This is also where you can ask for help with anything else pertaining to this assignment.
-
-The second programming assignment, [jpa01](https://ucsb-cs156.github.io/f22/lab/jpa01/) is a bit more challenging, since it
-deals with something called "mutation testing" that may be new to you.
-I'll cover some of that in lecture on Wednesday.
-
-It is available now as well and on Gradescope.
-It is due at the end of next week, but I encourage you to start it sooner.
-
-
-# If you haven't joined the GitHub organization yet, DO IT NOW.
-
-Literally, right now, during class.
-
-* Login at https://ucsb-cs-github-linker.herokuapp.com with your GitHub id
-* Navigate to the home page.
-* Click to join `ucsb-cs156-f22`.  This generates an invitation
-* THEN... click at the top of the page to accept the invitation
-
-If you get the message that your "email didn't match anyone on the course roster", then:
-* Add your ucsb email (i.e. `youremail@ucsb.edu` or `youremail@umail.ucsb.edu`) to your GitHub account.
-* Note: you can have more than one email associated with your GitHub account.
-* Then try again.  If it still doesn't work, you may need to make an appointment with Prof. Conrad to troubleshoot what is wrong.
-
-The first two programming assignments, plus our in-class work for Tuesday, depend on having everyone in the GitHub org, so please
-do that now.
+* Reading in the textbooks: Use <https://bit.ly/ucsb-or> to get online access
+* Then use:
+  - <https://bit.ly/or-hfj3> Head First Java, 3rd Edition
+  - <https://bit.ly/or-jn7> Java in a Nutshell, 7th Edition
+  - <https://bit.ly/or-jn8> Java in a Nutshell, 8th Edition (NOT FULLY PUBLISHED YET)
 
 # Homework 
 
-## For next Wednesday's discussion section 
+## For next Wednesday's discussion section:
 
 * Before next Wednesday's discussion seciton, skim this article: <https://pconrad.github.io/files/paper028.pdf>
   - Read all of the "abstract" and Section 1 (about 1 page), and skim through Section 4 (about 5 pages)
   - During discussion next Wednesday, you'll be dividing up the six parts of section 4 among the team members,
-    and then doing a more detailed read for a homework assignment due later (<https://ucsb-cs156.github.io/f22/hwk/h02/>)
+    and then doing a more detailed read for a homework assignment due later (<https://ucsb-cs156.github.io/f22/hwk/h03/>)
 
 * As you read, be prepared to discuss the ways in which developers felt unprepared, 
   and what experiences they wish they had during their courses at University.
 
   The point of reading this paper is to try to understand *why* this course is structured the way it is.
 
-# Reading in the Textbook (reading for H00 due Tuesday).
+# Other Homework is on Gradescope
 
-
-This homework assignment due Tuesday is based on:
-
-* Chapters 1 and 2 of Head First Java 2nd Edition (HFJ2), and Chapter 1 on Java in a Nutshell, 7th Edition (JN7).
-* We also have one question about material on pages 372-373 on JN7, the section titled "Slow Adoption Rates".  Please read that one short section as well.
-
-* Limited Online Access to these textbooks is free if you connect through the UCSB Library website
-  - Start here: <https://www.oreilly.com/library/view/temporary-access/>, and select UC Santa Barbara from the dropdown menu.
-  - Then, search for "Head First Java, 2nd edition" or "Java in a Nutshell, 7th Edition" once you are online.
-  - We may make use of other online books available through this resource.
+* You can access Gradescope through Canvas
+* Link to Canvas is on the course website: <https://ucsb-cs156.github.io/f22>
+* There are reading assignments in the textbooks for each homework assignment.
 
 
 # What will we learn in this class:
@@ -159,35 +122,11 @@ This homework assignment due Tuesday is based on:
   - JavaScript/React front end
   - Databases and APIs
 
-Two halves:
-* First half: More traditional homework/programming assignments.
-* Second half: Teams, working on three or four big applications
-
 Legacy Applications: They existed before this course started, and will continue to exist in the future.
 
 # Logistics
 
 * Check website for software to install <https://ucsb-cs156.github.io/f22/info/software/>
-* Check email for:
-  * Research survey invitation (coming soon)
-  * Slack invitation
-* Join ucsb-cs156-f22 github org
-  * Create account at github.com
-  * Add your @ucsb.edu or @umail.ucsb.edu email address (either one)
-  * Visit <https://ucsb-cs-github-linker.herokuapp.com> and login with your github username/password
-  * On home page of app, click to join cs156 {{site.qxx}}
-  * Click link to **accept** the invite to the org
-
-
-
-# Where can you find info in this class?
-
-* Textbooks
-   * [HFJ](https://ucsb-cs156.github.io/textbooks/HFJ3) - Head First Java, 2nd editino
-   * [JN7](https://ucsb-cs156.github.io/textbooks/JN7) - Java in a Nutshell, 7th edition
-* Website: <https://ucsb-cs156.github.io>
-   * Especially under <https://ucsb-cs156.github.io/topics>
-
 
 # Now we meet our first team
 
@@ -196,16 +135,14 @@ We'll now separate into teams, (and/or go into breakout rooms if online) and you
 Teams are by discussion section; there are three discussion sections, and 4 teams per discussion section.
 
 Team assignments, and the mapping from teams to staff (LAs/TAs) is listed here:
-* <https://ucsb-cs156.github.io/f22/info/teams/>
-* You can find this link on the course website, <https://ucsb-cs156.github.io/f22> under "More..." then Teams.
+* <https://bit.ly/cs156-f22-teams>
 
-Note that while the instructor, or a TA or LA might drop in on your Breakout Room, they are not the discussion leader.  You need to self-organize to run your own 
-breakout room discussion.
+Note that while the instructor, or a TA or LA might drop in on your Breakout Room, they are not the discussion leader.  You need to self-organize to run your own  breakout room discussion.
 
 
 # What to do in your breakout room
 
-This part is 40% of your participation grade for today (P00 on Gauchospace)
+This part is 40% of your participation grade for today (P00 on Canvas)
 
 1. Please choose someone to be the discussion leader, and someone else to be the scribe.  Note that you'll be asked to rotate these roles each time
    we have a session, so that everyone gets a chance to practice their leadership skills and their writing skills.
