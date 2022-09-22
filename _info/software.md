@@ -209,7 +209,7 @@ It turns out that almost everything in terms of installing software (Java, Maven
 Therefore we strongly suggest that if you have a Windows environment, you install the Windows Subsystem for Linux (WSL) and then follow the 
 instructions under Linux/WSL.
    
-If you are unable to install WSL because of limitations on your machine, please reach out to the course staff via Slack using the [#help-windows]() channel on Slack.   In that case, we will try to find an alternative for you.
+If you are unable to install WSL because of limitations on your machine, please reach out to the course staff via Slack using the [#help-windows](https://ucsb-cs156-f22.slack.com/archives/C0449GYQKKJ) channel on Slack.   In that case, we will try to find an alternative for you.
  
 ## Recommended for Linux/WSL Users
  
