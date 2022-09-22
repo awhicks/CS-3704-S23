@@ -21,7 +21,7 @@ Basic Facts
   * Wednesday {{site.discussion_section_times}}
   * Attendance/Participation is expected/required.
   * You must participate the section for which you are registered, since teams are assigned by section.
-* Office Hours: See: <http://www.cs.ucsb.edu/~pconrad/ofchrs>  
+* Office Hours: See: [http://www.cs.ucsb.edu/~pconrad/ofchrs](https://ucsb-cs156.github.io/f22/info/office_hours/)
 
 Course website: <https://ucsb-cs156.github.io/f22/>
 
