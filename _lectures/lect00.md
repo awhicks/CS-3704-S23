@@ -51,6 +51,23 @@ Helping prepare you for transition from "Computer Science Student" to "Professio
   - Typically try to keep instructions to 5-15 minutes
   - 35-45 minutes with your teams
 
+# `#help-lecture-discussion`
+
+The #help-lecture-discussion channel on the Slack is special.
+
+* <https://ucsb-cs156-f22.slack.com/archives/C041W1SLWKU/p1662848235180529>
+* Use it when we are in "work mode" during lecture or discussion and you need help.
+
+Please use #help-lecture-discussion
+- Instead of Raising your hand
+- Instead of Walking up to TA/instructor/LA (they may be in the middle of helping someone else)
+- Instead of Using the "ask for help" button on Zoom
+ 
+Note that the zoom "ask for help" button doesn't work well: 
+- It doesn't maintain a queue
+- Only the "zoom host" sees it
+- It immediately disappears without a trace.
+
 # The course website
 
 Here: <https://ucsb-cs156.github.io>
