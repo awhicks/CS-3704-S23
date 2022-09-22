@@ -56,6 +56,9 @@ offering_menus:
         dropdown:
            - title: ucsb-cs156-f22
              url: https://github.com/ucsb-cs156-f22
+      - title: Canvas
+        url: "https://ucsb.instructure.com/courses/2369"
+        description: "Canvas (replaces Gauchospace)"
       - title: "More..."
         url: /info/
         description: "More Information"
