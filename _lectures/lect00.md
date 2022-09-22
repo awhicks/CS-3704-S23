@@ -71,7 +71,11 @@ Here:
 
 Grade breakdown:
 
-<img width="922" alt="image" src="https://user-images.githubusercontent.com/1119017/160012941-6f8315ce-1da0-44b5-9fff-b37fb25147dc.png">
+* (10%) Participation Grades (10%) - Each participation grade will be out of 100 points.  
+* (20%) Homeworks / Quizzes (20 %) - These will be administered through Gradescope.  
+* (20%) PAs - Programming assignments (some autograded, others manual; some individual, some in teams) (20 %) 
+* (25%) Exams (maybe two, maybe one)
+* (25%) Project Grade - team grade, possibly modified by peer evaluations
 
 * Note that you must get an "A" in **all five categories** to get an A.
 * For grades of A-,B+,B,B-,C+,C,C-
@@ -79,9 +83,6 @@ Grade breakdown:
   * Lowest component should be at least: B-,C+,C,C-,D+,D,D-, respectively.
 * For a D+,D or D-, you just need your average to be at least a D+, D or D-.
 
-How the project grade works:
-* 25% of your course grade
-* It's a team grade, with a peer-review adjustment (via CATME.org peer reviews).
 
 # First Homework assignments
 
@@ -110,7 +111,6 @@ How the project grade works:
 * You can access Gradescope through Canvas
 * Link to Canvas is on the course website: <https://ucsb-cs156.github.io/f22>
 * There are reading assignments in the textbooks for each homework assignment.
-
 
 # What will we learn in this class:
 
@@ -244,4 +244,14 @@ What are you most interested to learn in this course?
 
 Record as much of your conversation as you are able in the Slack channel
 
+# For next week:
 
+Check out these two videos about our legacy code projects:
+* [Courses Search](https://drive.google.com/file/d/1NpXyoh__e08Vu5xdvfeAHAo2pl3AI9xZ/view)
+* [Happy Cows](https://drive.google.com/file/d/1gIJzuDLt-UOuD5ZfVpW_pg6kIwVlbwLk/view)  
+
+Read the Listening to Developers Paper:
+* <https://pconrad.github.io/files/paper028.pdf>
+
+Read the follow up paper (in review):
+* [Follow up Paper](exprpt.pdf)
