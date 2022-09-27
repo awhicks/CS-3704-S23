@@ -14,8 +14,13 @@ starter_repo: https://github.com/ucsb-cs156-f22/STARTER-jpa00
 
 This assignment is `jpa00`, i.e "Java Programming Assignment 00".
 
-If you find typos or problems with the lab instructions, please report
-them on the #typos channel on Slack
+If you find typos or problems with the lab instructions, please report these via Slack:
+* When class is in session (e.g. lecture or discussion) please use `#help-lecture-discussion`
+* At other times, please use `#help-jpa00`, or if it is a configuration problem, use one of these channels as applicable:
+  - `#help-macos`
+  - `#help-windows`
+  - `#help-linux-wsl`
+
 
 # Goals
 
