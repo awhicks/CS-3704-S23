@@ -52,7 +52,7 @@ Note: these instructions were current as of S22.   Things change every quarter&m
 
 You may be wondering whether it's ok if you have Java 19 or Java 18, or Java 11, or some other version of Java instead of Java 17.    This short answer is: for this simple `Hello` lab, it probably won't make a difference, but eventually it probably *will*.  So if you are going to the trouble of installing Java on your system, try to make sure it's Java 17, *specifically*, which (unlike Java 12, 13, 14, 15, 18 or 19) is considered a *Long-Term Support* release of Java.
 
-Read more here if you are interested: <https://ucsb-cs156.github.io/topics/java_versions/>  
+Read more here if you are interested: [https://ucsb-cs156.github.io/topics/java_versions/](https://ucsb-cs156.github.io/topics/java/java_versions.html)  
 
 # Something for everyone to learn
 
@@ -133,12 +133,12 @@ to how we interact with CSIL.    So please read this carefully.
 
    If you haven't used an ssh client before, consult these pages for
    hints:
-   * Windows: <https://ucsb-cs156.github.io/topics/csil_via_ssh_from_windows/>
-   * MacOS: <https://ucsb-cs156.github.io/topics/csil_via_ssh_from_macos/>
+   * Windows: <https://ucsb-cs156.github.io/topics/CSIL/csil_via_ssh_from_windows.html>
+   * MacOS: <https://ucsb-cs156.github.io/topics/CSIL/csil_via_ssh_from_macos.html>
    * ECI's article with guides for Windows, Mac and Linux: <https://doc.engr.ucsb.edu/pages/viewpage.action?pageId=5112076>
 
    There are also channels on the course slack, <{{page.slack}}>, for
-   `#help-windows` and `#help-macos`.  Use the `#help-other` if you need
+   `#help-windows` and `#help-macos`.  Use the `#help-linux-wsl` if you need
    help for a system other than Windows or Mac (e.g. Linux, Chromebook, etc.)
 
 4. Ideally, you will already 
