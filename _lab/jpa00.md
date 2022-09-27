@@ -272,7 +272,7 @@ What you'll need:
 * Java 17 JDK   
 * Maven
 
-There are instructions [here](https://ucsb-cs156.github.io/s22/info/software/) for various platforms. 
+There are instructions [here](https://ucsb-cs156.github.io/f22/info/software/) for various platforms. 
 
 
 ## Step 5: Configure your machine for git/GitHub
@@ -283,15 +283,15 @@ We want to be able to use `git` and GitHub with ssh links, so we need to set up 
 
 We also want to set up `git` so that it records our commits properly.
 
-1. `git` configuration: [Detailed Instructions](https://ucsb-cs156.github.io/topics/csil_git_configuration/)
+1. `git` configuration: [Detailed Instructions](https://ucsb-cs156.github.io/topics/CSIL/csil_git_configuration.html)
 
     
 2.  Configure ssh keys for git
-    - Detailed instructions: [Configuring your ssh key for Github.com](https://ucsb-cs156.github.io/topics/github_ssh_keys/)
+    - Detailed instructions: [Configuring your ssh key for Github.com](https://ucsb-cs156.github.io/topics/GitHub/github_ssh_keys.html)
 
 
 3.  If you are brand new to git and github, review a few basic facts about git and github.com 
-    - detailed information [here](https://ucsb-cs156.github.io/topics/git_overview/)
+    - <https://ucsb-cs156.github.io/topics/git/git_overview.html>
 
 
 ## Step 6: Finding your jpa00 repo on GitHub
