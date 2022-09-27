@@ -107,7 +107,7 @@ to how we interact with CSIL.    So please read this carefully.
    As far as how to login, we'll cover that in in the next item.
 
 3. If you've ssh'd to `csil.cs.ucsb.edu` before, but haven't logged into that
-   site recently (i.e. since Summer 2020), you might find that you get
+   site recently, you might find that you get
    an error message when trying to login due to stale values in a file
    ion your system called `known_hosts`.  The old
    entry in that file for `csil.cs.ucsb.edu` will need to be deleted,
@@ -162,7 +162,7 @@ to how we interact with CSIL.    So please read this carefully.
 ## Step 1: If you are on CSIL, configure your account for Java 17
 
 If you are not working on CSIL
-* You should have checked that you have Java 17 and Maven by following the steps here: <https://ucsb-cs156.github.io/s22/info/software/>
+* You should have checked that you have Java 17 and Maven by following the steps here: <https://ucsb-cs156.github.io/f22/info/software/>
 * If so, you can skip to Step 2.  
 
 Otherwise, login to your CSIL account, and start by checking whether `JAVA_HOME` is already defined. Type `echo $JAVA_HOME`
@@ -447,9 +447,9 @@ the file `pom.xml` is in the current directory.  For best results, you should al
 
 To compile type `mvn compile`.   
 
-* If you see the message `The JAVA_HOME environment variable is not defined correctly...` plus a few more lines of output, see [this link](https://ucsb-cs156.github.io/topics/maven_faq/) for a fix. 
+* If you see the message `The JAVA_HOME environment variable is not defined correctly...` plus a few more lines of output, see [this link](https://ucsb-cs156.github.io/topics/maven/maven_faq.html) for a fix. 
 * Otherwise, you should see no error messages
-* There may be warning about missing `resources` and `UTF-8 encoding`, but you can safely ignore those for now.  If you are curious, see the the section "Warnings you May be able to Ignore" on [this page](https://ucsb-cs156.github.io/topics/maven_hello_world/).
+* There may be warning about missing `resources` and `UTF-8 encoding`, but you can safely ignore those for now.  If you are curious, see the the section "Warnings you May be able to Ignore" on [this page](https://ucsb-cs156.github.io/topics/maven/maven_hello_world.html).
 
 Then, type `mvn package`.  You should see a lot of output, but somewhere in that output, something like this:
 
@@ -480,8 +480,9 @@ This is the wrong output!
   ```
   $JAVA_HOME/bin/java -cp target/hello-1.0.0.jar Hello
   ```
-  This assumes you've done the [fix described here](https://ucsb-cs156.github.io/topics/maven_faq/) to define `JAVA_HOME` to point to Java 17.
+  This assumes you've done the [fix described here](https://ucsb-cs156.github.io/topics/maven/maven_faq.html) to define `JAVA_HOME` to point to Java 17.
 
+  
   
 
 The line `This is the wrong output!` is being produced by the line of code:
@@ -513,7 +514,8 @@ You should have an account invitation in your email.  If you don't, ask an instr
 
 To submit your work, you should be able to click on the GitHub link in Gradescope, and locate your repo.  The first time you do this, it may take a while; be patient before giving up.   If it still doesn't work after a while, you can either (a) ask the staff for assistance, or submit a zip file as an alternative.
 
-* For instructions on submitting a Zip file, see: [Gradscope Zip Submission](https://ucsb-cs156.github.io/topics/gradescope_zip_submission/)
+* For instructions on submitting a Zip file, see: [Gradscope Zip Submission](https://ucsb-cs156.github.io/topics/gradescope/gradescope_zip_submission.html)
+
 
 After you submit, it will take some time for Gradescope to process your submission.  Once it's processsed, you should see output similar to this:
 
