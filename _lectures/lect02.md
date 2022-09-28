@@ -15,8 +15,8 @@ Once that's done, you are free to go, but you are also invited to stay and work 
 
 # What then?  
 
-* If you can make progress on [jpa00](https://ucsb-cs156.github.io/f22/lab/jpa00/), I suggest working on that.
-* If you've gotten as far as you can with [jpa00](https://ucsb-cs156.github.io/f22/lab/jpa00/) (i.e. you're up to the step of final submission on Gradescope, and have submitted, but because the autograder is broken, you are not getting a valid score, or meaningful feeedback), then consider moving on to [jpa01](https://ucsb-cs156.github.io/f22/lab/jpa01/), and going as far as you can with that.
+* The autograder is now working for [jpa00](https://ucsb-cs156.github.io/f22/lab/jpa00/)! If you haven't submitted yet (or if you have, but you don't yet have a score of 100%, I suggest working on that.)
+* If you've finished [jpa00](https://ucsb-cs156.github.io/f22/lab/jpa00/) then consider moving on to [jpa01](https://ucsb-cs156.github.io/f22/lab/jpa01/), and going as far as you can with that.  I hope to have the autograder for that one working soon as well.
 
 And you can also work on these homework assignments if you haven't yet completed them:
 
