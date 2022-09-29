@@ -1,7 +1,7 @@
 ---
 desc: "Testing: test coverage and mutation testing"
 assigned: 2022-09-27 13:00
-due: 2022-10-07 23:59
+due: 2022-10-09 23:59
 layout: lab
 num: jpa01
 ready: true
