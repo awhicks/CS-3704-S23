@@ -39,6 +39,14 @@ There should be a slack channel called  `#help-jpa02`  where you can ask questio
 -   This puts your application "on the web", for real, so that anyone in the world can access it 24/7
 
 
+### The Free Plan is Going Away
+
+Note: CMPSC 56/156 has relied on the free plan of Heroku for at least six years now.  However, the free plan is going away on **November 28, 2022**, which is before the end of this course.  We found this out very late in Summer 2022--otherwise would have spent part of the summer redesigning the course for a different platform. 
+
+As it is, we'll have to figure that out on the fly, but for now, we think the free plan is still in place, so we'll move ahead with using it, even while we are looking for alternatives.
+
+There is some talk of a Heroku "student plan", but it's not yet clear what that will look like, whether that will meet the course's needs, and when or if that will be rolling out.  So for now, we just have to plan on not relying on Heroku anymore at all.
+
 ### Limitations of the free plan of Heroku
 
 TL;DR: You should NOT need to enter a credit card into Heroku.  If you are asked for one, something has gone wrong.
@@ -56,11 +64,11 @@ TL;DR: You should NOT need to enter a credit card into Heroku.  If you are asked
 You may already have some experience with creating static web pages, and/or with creating web applications (e.g. using PHP, Python (Django or Flask) or Ruby on Rails.) If so, then the "Learn More" section will be basic review.
 
 If you are new to writing software for the web, you are <em>strongly encouaged</em> to read the background information at the "learn more" link below.
--   [Web Pages vs. Web Apps](https://ucsb-cs156.github.io/topics/webapps_webapps_vs_websites/)
+-   [Web Pages vs. Web Apps](https://ucsb-cs156.github.io/topics/webapps/webapps_webapps_vs_websites.html)
 
 ### What are we trying to accomplish again in this lab?
 
-If you just did a deep dive into the article [Web Pages vs. Web Apps](https://ucsb-cs156.github.io/topics/webapps_webapps_vs_websites/) it may be helpful to again review what we are trying to accomplish in this lab:
+If you just did a deep dive into the article [Web Pages vs. Web Apps](https://ucsb-cs156.github.io/topics/webapps/webapps_webapps_vs_websites.html) it may be helpful to again review what we are trying to accomplish in this lab:
 
 -   In this lab, we will <em>create a basic "Hello, World" type web app in Java"</em>
 -   To test that, we need to run that on a server somewhere.
@@ -80,7 +88,7 @@ Then you probably have a disk quota problem.
 
 -   The best way to troubleshoot this, if you cannot log in, is to ask someone else that CAN log in to allow you to use a terminal window on their screen.
     -   Use `ssh yourusername@csil.cs.ucsb.edu` to get into your account from their terminal session.
--   For troubleshooting tips, visit: [CSIL Disk Quota Troubleshooting](https://ucsb-cs156.github.io/topics/csil_disk_quota/)
+-   For troubleshooting tips, visit: [CSIL Disk Quota Troubleshooting](https://ucsb-cs156.github.io/topics/CSIL/csil_disk_quota.html)
 
 # Step 2: Create a Heroku Account
 
