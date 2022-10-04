@@ -11,7 +11,7 @@ Instructions on installing these follow below.
 * Java 17
 * Maven 3.8
 * nvm
-* Node 14
+* Node 16
 * npm 8
 * Heroku CLI
 
@@ -145,8 +145,6 @@ If you have questions about this section, please ask on the [`#help-macos`](http
    You will need to find this line in the text outputted by `brew install openjdk@17` and run it in the terminal. It should be near the end of the output. 
   
    The command pasted above **will not work**; it is an example provided so you know what you're looking for. This links the software you just installed with the path **your** computer expects – some macs are different and will have different file structures. That's why you must use the command outputted by `brew install openjdk@17`.
- 
-   
 
    To check if you now have Java 17, open a new Terminal window and do:
 
@@ -187,21 +185,13 @@ If you have questions about this section, please ask on the [`#help-macos`](http
 
    Be sure that you have Maven version 3.8 or higher, as Java 17 requires this version to work.
 
-4. npm
+4. nvm, Node, and npm
 
-   To install npm, do:
-   
-   ```
-   brew update
-   brew install npm
-   ```
-   
-   Or to update to the latest version:
+   It is recommended to install Node and npm through Node Version Manager (nvm). The instructions for installing this are the same as those for Linux and WSL users, so please follow the instructions listed there.
 
-   ```
-   brew update
-   brew upgrade npm
-   ```
+   [Install nvm and Node on WSL](https://ucsb-cs156.github.io/topics/windows/windows_wsl.html#install-nvm-and-node-on-wsl)
+
+   [Update npm on WSL](https://ucsb-cs156.github.io/topics/windows/windows_wsl.html#update-npm-on-wsl)
 
 ## Recommmended for Windows Users
 
@@ -211,11 +201,13 @@ It turns out that almost everything in terms of installing software (Java, Maven
 Therefore we strongly suggest that if you have a Windows environment, you install the Windows Subsystem for Linux (WSL) and then follow the 
 instructions under Linux/WSL.
    
-If you are unable to install WSL because of limitations on your machine, please reach out to the course staff via Slack using the [#help-windows](https://ucsb-cs156-f22.slack.com/archives/C0449GYQKKJ) channel on Slack.   In that case, we will try to find an alternative for you.
+If you are unable to install WSL because of limitations on your machine, please reach out to the course staff via Slack using the [#help-windows](https://ucsb-cs156-f22.slack.com/archives/C0449GYQKKJ) channel on Slack. In that case, we will try to find an alternative for you.
  
-## Recommended for Linux/WSL Users
+## Recommended for Ubuntu Linux / WSL Users
  
 Instructions for installing Windows Subsystem for Linux (WSL), as well as environment setup instructions for Ubuntu systems, is available here: [https://ucsb-cs156.github.io/topics/windows_wsl/](https://ucsb-cs156.github.io/topics/windows/windows_wsl.html)
+
+Native Ubuntu users (those not using Ubuntu through WSL) can skip the Windows-specific setup and go directly to [Install / Update Git on WSL](https://ucsb-cs156.github.io/topics/windows/windows_wsl.html#install--update-git-on-wsl) and follow all instructions from there on.
 
 The following programs will be installed in the above guide:
 
@@ -223,8 +215,9 @@ The following programs will be installed in the above guide:
 * Java 17
 * Maven 3.8
 * nvm
-* Node 14
+* Node 16
 * npm 8
 * Heroku CLI
 
+If you're using a Linux distribution that is not Ubuntu (or a similar Debian-based distribution with access to `apt`), the commands listed in the setup guide linked above may not work. The staff cannot provide support on finding equivalent commands for your desired distribution, but community resources such as Stack Overflow can help here.
 

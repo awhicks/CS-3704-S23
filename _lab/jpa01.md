@@ -1,7 +1,7 @@
 ---
 desc: "Testing: test coverage and mutation testing"
 assigned: 2022-09-27 13:00
-due: 2022-10-07 23:59
+due: 2022-10-09 23:59
 layout: lab
 num: jpa01
 ready: true
@@ -244,7 +244,6 @@ Be sure that you've added your pair partner to your submissions on Gauchospace
 
 Then, check your test coverage!
 
-There are two ways to do it: locally, or using codecov.  Use whichever way is eeasier for you.
 
 ## Checking Test Case Coverage Locally.
 
@@ -256,43 +255,6 @@ There are two ways to do it: locally, or using codecov.  Use whichever way is ee
   computer, and double click on it to open it.
 * Instructions for that are here for [Windows](https://ucsb-cs156.github.io/topics/csil_mount_drive_to_windows_using_samba/) and [MacOS](https://ucsb-cs156.github.io/topics/csil_mount_drive_to_macOs_using_samba/)  
   
-
-## Setting up CodeCov for your repo
-
-A second way to check your code coverage involves using a commerical tool called [Codecov](https://codecov.io).
-
-The first time you use Codecov, there is some setup involved, and the **staff has to manually enable the account for each student**.   
-
-Therefore, some patience will be needed as we work through that process.
-
-Codecov.io is a commerical service that provides hosting for Code Coverage reports.  We'll get into what code coverage is in more detail
-later, but the short version is is that it's a measure of how much of your code is covered by automated tests.  You can learn more here: <https://ucsb-cs156.github.io/topics/testing/>
-
-The first thing you're going to want to do is **Get the GitHub Student Developer Pack** so that you have free access to CodeCov.  To do so:
-* Visit <https://education.github.com/students>
-* Signing in with your GitHub account and provide them your `@ucsb.edu` email. 
-* This should grant you the developer pack within 15 minutes; be patient with waiting for the email.
-
-Once you've completed that, we're now going to set up CodeCov for your project to track a testing metric called **code coverage** for your assignment.
-
-You can follow the instructions found in [`README.md`](https://github.com/ucsb-cs156-f20/STARTER_jspa01/blob/main/README.md#setting-up-code-coverage) under the **Setting up Code Coverage** heading.
-
-__Once you log in, please message course staff to get your account activated.__
-
-Please use the channel `#help-codecov` for these requests.
-
-
-## Checking Test Case Coverage via Codecov
-
-
-If your main branch shows green (i.e. all tests pass), then you should
-be able to see the code coverage on Codecov.io by visiting
-* <https://codecov.io/gh/{{page.course_org_name}}/REPO-NAME-HERE>
-
-If your code is on another branch
-* <https://codecov.io/gh/{{page.course_org_name}}/REPO-NAME-HERE/branch/BRANCH-NAME-HERE>
-
-
 # How to read the test coverage reports
 
 * If any line of code is red, that means it is not tested at all&mdash;it is being missed by *line coverage*
