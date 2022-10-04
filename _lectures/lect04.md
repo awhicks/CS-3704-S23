@@ -50,5 +50,5 @@ As you can see from the image below, there are lots of titles!  If you find one 
   - You are finished with all three and have a perfect score on Gradescope
   - You run out of time during today's class
   - Use the staff and your fellow students to help you.
-* If you finish all of those, you could start on the reading and work for H04 
+* If you finish all of those, you could finish up H03 (if you haven't), and/or start on the reading and work for H04 
 
