@@ -64,11 +64,11 @@ TL;DR: You should NOT need to enter a credit card into Heroku.  If you are asked
 You may already have some experience with creating static web pages, and/or with creating web applications (e.g. using PHP, Python (Django or Flask) or Ruby on Rails.) If so, then the "Learn More" section will be basic review.
 
 If you are new to writing software for the web, you are <em>strongly encouaged</em> to read the background information at the "learn more" link below.
--   [Web Pages vs. Web Apps](https://ucsb-cs156.github.io/topics/webapps_webapps_vs_websites/)
+-   [Web Pages vs. Web Apps](https://ucsb-cs156.github.io/topics/webapps/webapps_webapps_vs_websites.html)
 
 ### What are we trying to accomplish again in this lab?
 
-If you just did a deep dive into the article [Web Pages vs. Web Apps](https://ucsb-cs156.github.io/topics/webapps_webapps_vs_websites/) it may be helpful to again review what we are trying to accomplish in this lab:
+If you just did a deep dive into the article [Web Pages vs. Web Apps](https://ucsb-cs156.github.io/topics/webapps/webapps_webapps_vs_websites.html) it may be helpful to again review what we are trying to accomplish in this lab:
 
 -   In this lab, we will <em>create a basic "Hello, World" type web app in Java"</em>
 -   To test that, we need to run that on a server somewhere.
