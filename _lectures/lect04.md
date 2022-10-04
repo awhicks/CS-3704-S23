@@ -27,3 +27,10 @@ Read the section of your paper, and answer the questions (in your team's GitHub 
 * Regrade requests are open
 * Please make all regrade requests within one week
 
+## Today
+
+* Please work on jpa00, jpa01, and/or jpa02 until:
+  - You are finished with all three and have a perfect score on Gradescope
+  - You run out of time during today's class
+  - Use the staff and your fellow students to help you.
+
