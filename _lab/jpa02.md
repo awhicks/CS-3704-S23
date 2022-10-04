@@ -88,7 +88,7 @@ Then you probably have a disk quota problem.
 
 -   The best way to troubleshoot this, if you cannot log in, is to ask someone else that CAN log in to allow you to use a terminal window on their screen.
     -   Use `ssh yourusername@csil.cs.ucsb.edu` to get into your account from their terminal session.
--   For troubleshooting tips, visit: [CSIL Disk Quota Troubleshooting](https://ucsb-cs156.github.io/topics/csil_disk_quota/)
+-   For troubleshooting tips, visit: [CSIL Disk Quota Troubleshooting](https://ucsb-cs156.github.io/topics/csil/csil_disk_quota.html)
 
 # Step 2: Create a Heroku Account
 
