@@ -39,6 +39,14 @@ There should be a slack channel called  `#help-jpa02`  where you can ask questio
 -   This puts your application "on the web", for real, so that anyone in the world can access it 24/7
 
 
+### The Free Plan is Going Away
+
+Note: CMPSC 56/156 has relied on the free plan of Heroku for at least six years now.  However, the free plan is going away on **November 28, 2022**, which is before the end of this course.  We found this out very late in Summer 2022--otherwise would have spent part of the summer redesigning the course for a different platform. 
+
+As it is, we'll have to figure that out on the fly, but for now, we think the free plan is still in place, so we'll move ahead with using it, even while we are looking for alternatives.
+
+There is some talk of a Heroku "student plan", but it's not yet clear what that will look like, whether that will meet the course's needs, and when or if that will be rolling out.  So for now, we just have to plan on not relying on Heroku anymore at all.
+
 ### Limitations of the free plan of Heroku
 
 TL;DR: You should NOT need to enter a credit card into Heroku.  If you are asked for one, something has gone wrong.
