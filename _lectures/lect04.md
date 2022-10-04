@@ -1,0 +1,23 @@
+---
+num: "Lecture 04 (Tue lecture)"
+lecture_date: 2022-10-04
+desc: "Start jpa02"
+ready: true
+---
+
+# Announcements
+
+## Informed Consent, and the pre-survey (from last Thursday)
+
+* If you missed lecture last Thursday, or did not yet fill out the "pre-survey", please know that it will **close soon**.
+* The briefing slides and the link to the survey are in the #survey-links channel on the Slack.
+* Short version: you can fill out a survey for extra credit.  
+  - We hope you give us permission to use your data, but you don't have to to get the extra credit.
+  - We won't find out whether you did until course grades are already assigned.
+
+## Please finish H03 before tomorrow night's discussion section
+
+So that you'll be ready for that discussion.  (We are actually having a "discussion" in discussion section!)
+
+Read the section of your paper, and answer the questions (in your team's GitHub repo).
+
