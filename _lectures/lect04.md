@@ -21,3 +21,9 @@ So that you'll be ready for that discussion.  (We are actually having a "discuss
 
 Read the section of your paper, and answer the questions (in your team's GitHub repo).
 
+## Homework 
+
+* H00, H01, and H02 are now posted to Canvas
+* Regrade requests are open
+* Please make all regrade requests within one week
+
