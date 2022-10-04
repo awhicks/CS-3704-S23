@@ -39,10 +39,16 @@ You can also use this link to access the O'Reilly library and find some textbook
 * O'Reilly login: <https://bit.ly/ucsb-or>
 * Then search for JavaScript
 
+As you can see from the image below, there are lots of titles!  If you find one that's particularly helpful, you can post about it in the help-javascript channel on the Slack.
+
+<img width="571" alt="image" src="https://user-images.githubusercontent.com/1119017/193949059-2f1e4c57-8498-4896-a2e0-1e126bf2044b.png">
+
+
 ## Today
 
 * Please work on jpa00, jpa01, and/or jpa02 until:
   - You are finished with all three and have a perfect score on Gradescope
   - You run out of time during today's class
   - Use the staff and your fellow students to help you.
+* If you finish all of those, you could start on the reading and work for H04 
 
