@@ -21,11 +21,23 @@ So that you'll be ready for that discussion.  (We are actually having a "discuss
 
 Read the section of your paper, and answer the questions (in your team's GitHub repo).
 
-## Homework 
+## Graded Homework 
 
 * H00, H01, and H02 are now posted to Canvas
 * Regrade requests are open
 * Please make all regrade requests within one week
+
+# New Homework for next week
+
+* H04, which is about JavaScript has dropped today.
+* There is no "textbook" per se to read for this, but there *is* a lot of reading online, and that reading is linked to directly from the homework assignment:
+  - Here on the website: <https://ucsb-cs156.github.io/f22/hwk/h04/>
+  - Here on Gradescope: <https://www.gradescope.com/courses/443607/assignments/2322534>
+
+
+You can also use this link to access the O'Reilly library and find some textbooks on JavaScript, if you think it will help you:
+* O'Reilly login: <https://bit.ly/ucsb-or>
+* Then search for JavaScript
 
 ## Today
 
