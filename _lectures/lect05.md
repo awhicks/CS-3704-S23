@@ -12,7 +12,19 @@ ready: true
 
 Today we return to the paper that we read earlier in the quarter.  
 
-Each of you contributed some text to a repo:
+Each of you contributed some text to a repo when working on [P01](https://ucsb-cs156.github.io/f22/hwk/p01/) and [H03](https://ucsb-cs156.github.io/f22/hwk/h03/)
+
+Here are links to those repos:
+
+
+| 5pm | 6pm | 7pm |
+|-----|-----|-----|
+| [f22-5pm-1-NOTES](https://github.com/ucsb-cs156-f22/f22-5pm-1-NOTES) | [f22-6pm-1-NOTES](https://github.com/ucsb-cs156-f22/f22-6pm-1-NOTES) | [f22-7pm-1-NOTES](https://github.com/ucsb-cs156-f22/f22-7pm-1-NOTES)  |
+| [f22-5pm-2-NOTES](https://github.com/ucsb-cs156-f22/f22-5pm-2-NOTES) | [f22-6pm-2-NOTES](https://github.com/ucsb-cs156-f22/f22-6pm-2-NOTES) | [f22-7pm-2-NOTES](https://github.com/ucsb-cs156-f22/f22-7pm-2-NOTES)  |
+| [f22-5pm-3-NOTES](https://github.com/ucsb-cs156-f22/f22-5pm-3-NOTES) | [f22-6pm-3-NOTES](https://github.com/ucsb-cs156-f22/f22-6pm-3-NOTES) | [f22-7pm-3-NOTES](https://github.com/ucsb-cs156-f22/f22-7pm-3-NOTES)  |
+| [f22-5pm-4-NOTES](https://github.com/ucsb-cs156-f22/f22-5pm-4-NOTES) | [f22-6pm-4-NOTES](https://github.com/ucsb-cs156-f22/f22-6pm-4-NOTES) | [f22-7pm-4-NOTES](https://github.com/ucsb-cs156-f22/f22-7pm-4-NOTES)  |
+{:.table .table-sm .table-striped .table-bordered}
+
 
 As a reminder, you wrote a summary of material from Section 4 of this paper: <https://pconrad.github.io/files/paper028.pdf>
 
