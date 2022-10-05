@@ -2,16 +2,9 @@
 num: "Lecture 05 (Wed Discussion)"
 lecture_date: 2022-10-05
 desc: "Discuss LTD paper"
-ready: false
+ready: true
 ---
----
-num: "Lecture 03"
-lecture_date: 2022-04-05
-desc: "Tue Lecture: follow up on H01, LTD paper"
-ready: false
-qxx: s22
-org: https://github.com/ucsb-cs156-s22
----
+
 
 # Note about today's assignment
 
