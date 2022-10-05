@@ -409,8 +409,6 @@ Then:
   As before, wait until the script says that your branch is successfully deployed
   (or, if there are errors, read the error message in the log and address the errors.)
   
-If it works, then the words "this github repo" should become clickable links.  
-* The words "this github repo" should link to your github repo
 
 Ok, so far, we haven't really done anything we couldn't have done with a static web page.  But we have gotten a working Java web app running on Heroku, so it's start we can build on.  
 
