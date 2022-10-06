@@ -5,51 +5,19 @@ due: 2022-04-21 23:59
 github_org: ucsb-cs156-f22
 layout: lab
 num: jpa03
-ready: false
+ready: true
 starter: https://github.com/ucsb-cs156-f22/STARTER-jpa03
 ---
 
+# THIS LAB IS "ALMOST READY".
 
-# NOT READY YET
+You can certainly start working on it.
 
-# NOT READY YET
+For the time being, you may complete this lab on either Heroku or Render for full credit (if you just want to get it out of the way and be done with it.)
 
-# NOT READY YET
+I'm working on adjusting it so that it will also work on Render.com, which is the platform we are migrating to.
 
-# NOT READY YET
-
-# NOT READY YET
-
-# NOT READY YET
-
-
-# NOT READY YET
-
-# NOT READY YET
-
-# NOT READY YET
-
-# NOT READY YET
-
-# NOT READY YET
-
-
-# NOT READY YET
-
-# NOT READY YET
-
-# NOT READY YET
-
-# NOT READY YET
-
-# NOT READY YET
-
-If you scrolled down this far, you had to see all of the things that said "NOT READY YET".
-
-That means you are really determined to try out this lab, or I advised you to scroll past those.
-
-Please know that means you are an alpha or beta tester, and if things go wrong, that's to be expected.
-
+There is also a bit of adjustment for the transition from Gauchospace (Moodle) to Canvas.  Please be patient with us :-)
 
 # Instructions for jpa03
 
