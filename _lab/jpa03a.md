@@ -5,14 +5,9 @@ due: 2022-04-21 23:59
 github_org: ucsb-cs156-f22
 layout: lab
 num: jpa03a
-ready: false
+ready: true
 starter: https://github.com/ucsb-cs156-f22/STARTER-jpa03
 ---
-
-# NOT READY YET
-# NOT READY YET
-# NOT READY YET
-# NOT READY YET
 
 
 # THIS IS AN "ALT VERSION" of jpa03
