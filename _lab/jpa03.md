@@ -190,6 +190,8 @@ To get this demo app running on `localhost`, we need to do the following:
   ADMIN_EMAILS=phtcon@ucsb.edu,mentorsemail@ucsb.edu,youremail@ucsb.edu
   ```
   
+  See also: <https://ucsb-cs156-f22.slack.com/archives/C03MHLM03TM/p1665530345235669>
+
 * Then, use `mvn compile` to make sure that the code compiles.
 * Next, try `mvn test` to be sure that the test cases pass.
 * Then, run the following two commands separately in their own shells
