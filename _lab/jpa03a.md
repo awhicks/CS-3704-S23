@@ -188,12 +188,14 @@ To get this demo app running on `localhost`, we need to do the following:
 
 * Do the OAuth Configuration steps linked to from the README to get a client-id and client-secret
   and put them in your `.env` file
-* Add your own UCSB email address after `phtcon@ucsb.edu`, and your mentor's email (see <https://ucsb-cs156.github.io/f22/info/teams/>) separated by commas (no spaces) like this:
+* Add your own UCSB email address after `phtcon@ucsb.edu`, and your mentor's email (see <https://ucsb-cs156.github.io/f22/info/teams/>) separated by commas (no spaces) like this
   
   ```
   ADMIN_EMAILS=phtcon@ucsb.edu,mentorsemail@ucsb.edu,youremail@ucsb.edu
   ```
   
+  See also: <https://ucsb-cs156-f22.slack.com/archives/C03MHLM03TM/p1665530345235669>
+
 * Then, use `mvn compile` to make sure that the code compiles.
 * Next, try `mvn test` to be sure that the test cases pass.
 * Then, run the following two commands separately in their own shells
