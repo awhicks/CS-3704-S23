@@ -53,12 +53,14 @@ Here's how that will play out in detail:
 1. Navigate to the web page for the GitHub organization, i.e. <https://github.com/{{page.github_org}}>.  You'll see a tab for `Projects`. Click on that tab.  You should then see a project for your team for the team01 assignment, e.g. `f22-6pm-1-team01`, `f22-6pm-2-team01`,etc.
 
 2. Open the link for your team's Project.  You should find four columns: `Todo`, `In Progress`, `In Review`, `Done`
-3. You will be populating the `Todo` column with a set of tasks, which are called *Issues* in the GitHub implementation of Kanban.  More on how to do this later.
+3. The `Todo` column will be populated with a set of tasks, which are called *Issues* in the GitHub implementation of Kanban.  These correspond to the Issues that we'll also see in the `Issues` column of your repo.
 4. Now navigate to your repo for team01, which will have a url such as: <https://github.com/{{page.github_org}}/team01-f22-7pm-2>.  You will see a tab for `Issues`. Click on that tab.
-4. You should now see a list of issues. These are the work items your team needs to complete to do the the work for the team01 assignment.  (There may also be some additional housekeeping steps; but these issues are the bulk of the work you need to divide up as a team.) 
-5. Each team member will take on an issue, one at a time, assign it to themselves, and move it from the "To Do" column of the Kanban board to the "In Progress" column as you start the issue.  When you are finished with the issue, you move it into the "In Review" column when you've made a "Pull Request" to indicate that the issue is ready for your team members to review. 
-6. Ideally, each team member should have exactly one (and only one) issue assigned to them in the In Progress column at a time. 
-5. Once a pull request is complete for a given task, you move it into the `In Review` column
+4. You should now see a list of issues.  These are the work items your team needs to complete to do the the work for the team01 assignment. They are the same issues that you find in the "To Do" column of your Kanban board (i.e. your `Project`, to use the GitHub terminology). 
+5. There may also be some additional housekeeping steps that you need to complete in order for the `team01` assignment to be considered completed; the issues on the Kanban board are not necessarily the only things you need to complete to earn full credit for the assignment.  But these issues are the bulk of the work you need to divide up as a team.   
+6. Note that you are allowed and even encouraged to add cards on the Kanban board and/or Issues for any other items you find in the assignment description that need to be completed (e.g. submitting team01b on Gradescope on behalf of the team, for example.).  Tracking this on the Kanban board can be a helpful way to make sure that it get done, and to signal to other team members when it has been done.
+7. Each team member will take on an issue, one at a time, assign it to themselves, and move it from the "To Do" column of the Kanban board to the "In Progress" column as you start the issue.  When you are finished with the issue, you move it into the "In Review" column when you've made a "Pull Request" to indicate that the issue is ready for your team members to review. 
+8. Ideally, each team member should have exactly one (and only one) issue assigned to them in the In Progress column at a time. 
+9. Once a pull request is complete for a given task, you move it into the `In Review` column
    - At this stage, you seek a code review from a member of the team that 
      was not involved in the coding.
    - Also, at this stage, if the PR is not "green on CI", 
@@ -571,5 +573,10 @@ This goes immediately after these lines of code, which you'll find in the exampl
    headers.setContentType(MediaType.APPLICATION_JSON);
 ```
 
+# Other notes
 
+Unless you hear otherwise, if you see anything having to do with Codecov in the instructions, you may ignore it.
+* Note that we *are* requiring that you have full code coverage and mutation coverage for your tests
+* We just aren't using necessarily going to use the <https://codecov.com> product for this assignment.
+* Monitor the `#help-team01` channel on the Slack for more details.
 
