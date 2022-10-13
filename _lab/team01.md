@@ -24,6 +24,12 @@ you will work as a team.
 * You should submit as a team from your main branch, with a group submission for the team
 * Please coordinate on your submissions to Gradescope, using your team's Slack channel to coordinate
 
+# We'll do this one on Heroku for now
+
+For now, we'll be completing this assignment on Heroku, because the autograder is setup for Heroku.
+
+We'll pivot to Render.com (or another platform) with the next team assignment that requires a backend deployment platform.
+
 # Working with a Kanban Board
 
 In this assignment, we'll start practicing with a *Kanban Board*, which is a basic tool used by many software development organizations.
