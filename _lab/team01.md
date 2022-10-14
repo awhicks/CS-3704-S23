@@ -201,7 +201,7 @@ But you only get the particpation grade if you actually did the Kanban board ste
 
 A member of your team should find the issue on the Kanban board for deploying the repo to Heroku,  should drag that issue into `In Progress`, and assign that task to themselves
 
-1. Visit the Heroku Dashboard, and create a Heroku app with the name <tt>cs156-{{page.qxx}}-5pm-1-team01</tt>, substituting in your team number in place of `5pm-1`.
+1. Visit the Heroku Dashboard, and create a Heroku app with the name <tt>{{page.qxx}}-5pm-1-team01</tt>, substituting in your team number in place of `5pm-1`.
 2. On the deploy screen, link your Heroku app to your team's repo, and deploy the main branch.
 3. When the app is deployed, you should be able to navigate to the link below for your team, and launch the application.
 
