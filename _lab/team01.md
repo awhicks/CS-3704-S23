@@ -10,6 +10,7 @@ starter: https://github.com/ucsb-cs156-f22/STARTER-team01
 qxx: f22
 participation_activity_num: p03
 participation_activity_date: "Thursday 10/13/2022"
+demo_deployment: https://staff-team01.herokuapp.com/
 ---
 
 # First team programming assignment: Spring Backend, and working with APIs
@@ -102,7 +103,7 @@ We will use a tool called *Swagger-ui* that:
 
 If you want to see an example of what the working web app should look like, you can visit this site:
 
-* <https://staff-team01.herokuapp.com/>
+* <{{page.demo_deployment}}>
 
 This is an exercise in working with three kinds of APIs as explained in [this short article on APIs](https://ucsb-cs156.github.io/topics/apis.html)
 
@@ -142,7 +143,7 @@ So you are given those twelve classes.   Your job, as a team, is to implement 24
 
 You can see what those services will look like in Swagger by looking at this example of the finished app running:
 
-* <https://staff-team01.herokuapp.com/swagger-ui/>
+* <{{page.demo_deployment}}/swagger-ui/index.html>
 
 That will also give you an idea of what the documentaiton should look like when you've put in all the proper values for the various annotations (the things
 that start with `@` in the code.)
@@ -350,7 +351,8 @@ The first piece of information you need is a value for the endpoint, which is in
 
 You will also need some additional documentation about the parameters.  You can find this on the swagger-ui
 pages of staff solution, here:
-* <https://staff-team01-solution.herokuapp.com/swagger-ui/>
+
+* <{{page.demo_deployment}}>/swagger-ui/index.html>
 
 NOTE: The `EarthquakeQueryService` (along with the test for it) has two hard coded parameters in addition to the ones that 
 are exposed through the api (i.e. `minMag` for minimum magnitude, and `distance` (for distance in km from Storke Tower).   We 
@@ -409,7 +411,7 @@ In a Spring Boot application, a controller class is one that implements backend 
 on a URL).   You will now implement a controller so that users of your app (in practice, typically, the front end code)
 can access the information provided by your service. 
 
-The documentation at the staff solution to the lab <https://staff-team01-solution.herokuapp.com/swagger-ui/> shows the urls of the endpoints you'll be implementing; they 
+The documentation at the staff solution to the lab <{{}}> shows the urls of the endpoints you'll be implementing; they 
 are also shown in this table:
 
 
@@ -432,7 +434,7 @@ You'll see additional information in the Swagger-ui that is provided by annotati
 
 Please:
 * Take note of how those are used in the `EarthquakesController`
-* Note the similar information that appears in the Swagger-ui interface of the staff solution here: <https://staff-team01-solution.herokuapp.com/swagger-ui/> 
+* Note the similar information that appears in the Swagger-ui interface of the staff solution here: <{{page.demo_deployment}}>/swagger-ui/index.html> 
 * Add these annotations in the appropriate places in your own Controller so that the documentation matches that of the staff solution.  This is another component of your grade for this assignment.
 
 To check if your controller endpoint is operational, you can run:
