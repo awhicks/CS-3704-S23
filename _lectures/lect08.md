@@ -1,8 +1,10 @@
 ---
-num: "Lecture 08 (Wed Discussion)"
+num: "Lecture 08"
 lecture_date: 2022-10-12
-desc: "tbd"
+desc: "(Wed Discussion): try to finish jpa03"
 ready: false
 ---
 
-TBD
+This was a work session on jpa03
+
+
