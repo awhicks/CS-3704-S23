@@ -138,6 +138,22 @@ A standup should not be the only kind of team meeetings that you have.
 
 Then, review your kanban board as a team.   
 
+| Team  | Kanban board |
+|-------|--------------|
+| 5pm-1 | <https://github.com/orgs/ucsb-cs156-f22/projects/1> |
+| 5pm-2 | <https://github.com/orgs/ucsb-cs156-f22/projects/2> |
+| 5pm-3 | <https://github.com/orgs/ucsb-cs156-f22/projects/3> |
+| 5pm-4 | <https://github.com/orgs/ucsb-cs156-f22/projects/4> |
+| 6pm-1 | <https://github.com/orgs/ucsb-cs156-f22/projects/5> |
+| 6pm-2 | <https://github.com/orgs/ucsb-cs156-f22/projects/6> |
+| 6pm-3 | <https://github.com/orgs/ucsb-cs156-f22/projects/7> |
+| 6pm-4 | <https://github.com/orgs/ucsb-cs156-f22/projects/8> |
+| 7pm-1 | <https://github.com/orgs/ucsb-cs156-f22/projects/9> |
+| 7pm-2 | <https://github.com/orgs/ucsb-cs156-f22/projects/10> |
+| 7pm-3 | <https://github.com/orgs/ucsb-cs156-f22/projects/11> |
+| 7pm-4 | <https://github.com/orgs/ucsb-cs156-f22/projects/12> |
+{:.table .table-sm .table-striped .table-bordered}
+
 This is not always done during Standup meetings, but it's a good practice.
 
 * Make sure each team member has something in the in-progress column on the kanban board. (Unless they are done with both of their issues, and there are no team level issues left to take care of--in that case, they should help with code reviews.)
