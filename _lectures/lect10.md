@@ -138,20 +138,20 @@ A standup should not be the only kind of team meeetings that you have.
 
 Then, review your kanban board as a team.   
 
-| Team  | Kanban board |
-|-------|--------------|
-| 5pm-1 | <https://github.com/orgs/ucsb-cs156-f22/projects/1> |
-| 5pm-2 | <https://github.com/orgs/ucsb-cs156-f22/projects/2> |
-| 5pm-3 | <https://github.com/orgs/ucsb-cs156-f22/projects/3> |
-| 5pm-4 | <https://github.com/orgs/ucsb-cs156-f22/projects/4> |
-| 6pm-1 | <https://github.com/orgs/ucsb-cs156-f22/projects/5> |
-| 6pm-2 | <https://github.com/orgs/ucsb-cs156-f22/projects/6> |
-| 6pm-3 | <https://github.com/orgs/ucsb-cs156-f22/projects/7> |
-| 6pm-4 | <https://github.com/orgs/ucsb-cs156-f22/projects/8> |
-| 7pm-1 | <https://github.com/orgs/ucsb-cs156-f22/projects/9> |
-| 7pm-2 | <https://github.com/orgs/ucsb-cs156-f22/projects/10> |
-| 7pm-3 | <https://github.com/orgs/ucsb-cs156-f22/projects/11> |
-| 7pm-4 | <https://github.com/orgs/ucsb-cs156-f22/projects/12> |
+| Team  | Kanban board |  Staff Member    |
+|-------|--------------|------------------|
+| 5pm-1 | <https://github.com/orgs/ucsb-cs156-f22/projects/1> |  Andrew |
+| 5pm-2 | <https://github.com/orgs/ucsb-cs156-f22/projects/2> |  Avishek |
+| 5pm-3 | <https://github.com/orgs/ucsb-cs156-f22/projects/3> |  Bryan |
+| 5pm-4 | <https://github.com/orgs/ucsb-cs156-f22/projects/4> | Vivian |
+| 6pm-1 | <https://github.com/orgs/ucsb-cs156-f22/projects/5> | Andrew |
+| 6pm-2 | <https://github.com/orgs/ucsb-cs156-f22/projects/6> | Avishek |
+| 6pm-3 | <https://github.com/orgs/ucsb-cs156-f22/projects/7> | Bryan |
+| 6pm-4 | <https://github.com/orgs/ucsb-cs156-f22/projects/8> |Vivian |
+| 7pm-1 | <https://github.com/orgs/ucsb-cs156-f22/projects/9> |Andrew |
+| 7pm-2 | <https://github.com/orgs/ucsb-cs156-f22/projects/10> |Avishek |
+| 7pm-3 | <https://github.com/orgs/ucsb-cs156-f22/projects/11> | Bryan |
+| 7pm-4 | <https://github.com/orgs/ucsb-cs156-f22/projects/12> |Vivian |
 {:.table .table-sm .table-striped .table-bordered}
 
 This is not always done during Standup meetings, but it's a good practice.
@@ -159,6 +159,7 @@ This is not always done during Standup meetings, but it's a good practice.
 * Make sure each team member has something in the in-progress column on the kanban board. (Unless they are done with both of their issues, and there are no team level issues left to take care of--in that case, they should help with code reviews.)
 * Take care of any code review requests, and merge code that's ready to merge.
 * Do not merge code that doesn't pass the CI/ checks; only merge branches that are "green on CI".
+
 
 # Work on team01
 
@@ -171,3 +172,29 @@ We may or may not assign a grade for today's participation, but if we do, this w
 * 50% did the student make a standup post in the slack channel?
 * 50% do they have a story in the in-progress column on the Kanban board?
 
+# Staff members:
+
+Please check the Kanban boards for the three teams to which you are assigned.  Check that:
+
+* Each team member has exactly one issue assigned to them in the In Progress column (not less than one, not more than one)
+* If there are issues "In Review", check that there is a Pull Request
+* If there are issues that are "Done", if applicable, be sure that a PR has been merged
+  - This doesn't apply to simple tasks like setting up the Heroku deployment
+  - It does apply to anything that involves changing Java Code
+
+
+| Team  | Kanban board |  Staff Member    |
+|-------|--------------|------------------|
+| 5pm-1 | <https://github.com/orgs/ucsb-cs156-f22/projects/1> |  Andrew |
+| 5pm-2 | <https://github.com/orgs/ucsb-cs156-f22/projects/2> |  Avishek |
+| 5pm-3 | <https://github.com/orgs/ucsb-cs156-f22/projects/3> |  Bryan |
+| 5pm-4 | <https://github.com/orgs/ucsb-cs156-f22/projects/4> | Vivian |
+| 6pm-1 | <https://github.com/orgs/ucsb-cs156-f22/projects/5> | Andrew |
+| 6pm-2 | <https://github.com/orgs/ucsb-cs156-f22/projects/6> | Avishek |
+| 6pm-3 | <https://github.com/orgs/ucsb-cs156-f22/projects/7> | Bryan |
+| 6pm-4 | <https://github.com/orgs/ucsb-cs156-f22/projects/8> |Vivian |
+| 7pm-1 | <https://github.com/orgs/ucsb-cs156-f22/projects/9> |Andrew |
+| 7pm-2 | <https://github.com/orgs/ucsb-cs156-f22/projects/10> |Avishek |
+| 7pm-3 | <https://github.com/orgs/ucsb-cs156-f22/projects/11> | Bryan |
+| 7pm-4 | <https://github.com/orgs/ucsb-cs156-f22/projects/12> |Vivian |
+{:.table .table-sm .table-striped .table-bordered}
