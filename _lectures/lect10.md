@@ -5,6 +5,8 @@ desc: "(Tue Lecture): First Standup meeting on team01, continue work on team01"
 ready: true
 ---
 
+* Video: <https://gauchocast.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b425f3f6-5790-4dbf-aedd-af39018833c6>
+
 Today, we will:
 
 * Go over some details about how to approach team01
