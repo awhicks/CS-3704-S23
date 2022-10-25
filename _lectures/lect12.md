@@ -5,6 +5,8 @@ desc: "(Thu Lecture): Continue work on team01, or start team02. Guest: Scott Cho
 ready: true
 ---
 
+Video: <https://gauchocast.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c53a7861-97e1-44dd-9176-af390187be71>
+
 # Students
 
 * Today, we had a guest: Scott Chow from AppFolio.  See the video for details of the discussion
