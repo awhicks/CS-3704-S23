@@ -1,7 +1,7 @@
 ---
 num: "Lecture 13"
 lecture_date: 2022-10-25
-desc: "(Tue Lecture): "First CATME Peer Eval, then Continue work on team02"
+desc: "(Tue Lecture): First CATME Peer Eval, then Continue work on team02"
 ready: true
 ---
 
