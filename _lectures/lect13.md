@@ -5,6 +5,8 @@ desc: "(Tue Lecture): First CATME Peer Eval, then Continue work on team02"
 ready: true
 ---
 
+* Video: <https://gauchocast.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=af1fd3e9-2aa7-435e-ad70-af3a0013c33e>
+
 # CATME
 
 * Today, we'll do our first CATME survey
