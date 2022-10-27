@@ -20,6 +20,58 @@ ready: true
 * We'll discuss how to do an "Agile Retrospective", and then do one
 * We'll start looking at the legacy code projects
 
+# Heroku Concurrent build limit
+
+If you get this error when deploying on Heroku:
+
+```
+The build failed with the message Your account has reached its concurrent builds limit.
+```
+
+The tl;dr solution:
+* Wait 5 minutes and try again"
+* Might also need to coordinate deploys with members of your team (via your team's slack channel)
+
+Details in drop down below:
+
+<details>
+<summary>
+  More about the `concurrent builds limit` on Heroku
+</summary>
+  
+The "concurrent build limit" is usually only applicable when you are trying to do more than one deploy at a time... e.g. if someone on the team tries to deploy a branch, and then the same person (or someone else) tries to deploy a branch before the first build has finished.
+
+One team thought it meant they needed to delete their older apps (ones that have already received final grades and are no longer needed), e.g.   
+jpa02, jpa03, team01.
+  
+That's not necessarily a bad idea: it may help make sure you don't run out of "free tier minutes" this month (before those go away forever, end of November).
+  
+But it probably won't address the "concurrent build limit" issue; you can still run into that even with a single app on your Heroku account.
+  
+I suggest: 
+* Configure your prod instance to simply deploy each time there is a push to `main`
+  - This can still result in the concurrent build limit being triggered if two PRs are merged in quick succession, but it typically isn't a problem.
+* Coordinate deploys to your QA branch via your team slack channel
+  - Check that there isn't already a build in progress, and check when the last build was done; you can see this on the `Activity` menu on the Heroku dashboard.  Example:
+    
+    <img width="642" alt="image" src="https://user-images.githubusercontent.com/1119017/198363761-ebe3b256-7a04-4e3e-b325-6714e3cc2336.png">
+
+  - Send a message like "Deploying branch `xy-post-menuitemreview` to QA site" right before you do it
+  
+  
+</details>
+
+
+
+
+The "concurrent build limit" is usually only applicable when you are trying to do more than one deploy at a time... e.g. if someone on the team tries to deploy a branch, and then the same person (or someone else) tries to deploy a branch before the first build has finished.
+
+
+phtcon
+  < 1 minute ago
+You can still run into that even with just a single app on Heroku.   It's a good idea to delete the earlier apps that you no longer need (e.g. jpa02, jpa03, team01) but it won't necessarily make that error go away forever.
+Typically, the solution to the "The build failed with the message Your account has reached its concurrent builds limit." error is to just wait 5 minutes and try again :slightly_smiling_face:
+
 # CATME
 
 The results of the first CATME survey will be released sometime before class starts today 
@@ -30,7 +82,9 @@ Once they are released, I want to invite you to review them.
 There is some detail about CATME results in the "drop down" (if you click the arrow).
 
 <details>
-  <summary>Details about your CATME results</summary>
+<summary>
+Details about your CATME results
+</summary>
 
 After they are released, you should be able to see something like this.  (These are all examples from CMPSC 156 but *not* from this quarter).
 
