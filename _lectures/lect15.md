@@ -5,9 +5,18 @@ desc: "(Thu Lecture): Review CATME results, Continue work on team02"
 ready: true
 ---
 
+{% include drop_down_style.html %}
+
+
+
 The results of the first CATME survey will be released sometime before class starts today (before 5pm Thu Oct 27).  I'm just waiting on one student to finish.
 
 Once they are released, I want to invite you to review them.
+
+There is some detail about CATME results in the "drop down" (if you click the arrow).
+
+<details>
+  <summary>About your CATME results</summary>
 
 After they are released, you should be able to see something like this.  (These are all examples from CMPSC 156 but *not* from this quarter).
 
@@ -27,3 +36,5 @@ There will be two boxes like this:
 Following that, there are anonymized comments; they include your self-assessment, and the anonymous comment of your teammates.  Again, the example shown below is a real one from CMPSC 156, but not from this quarter's class:
 
 <img width="918" alt="Screen Shot 2022-10-27 at 10 18 35 AM" src="https://user-images.githubusercontent.com/1119017/198356690-950572ba-0fb9-431d-959b-50319ffd3bd5.png">
+  
+</details>
