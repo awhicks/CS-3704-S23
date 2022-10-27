@@ -1,7 +1,7 @@
 ---
 num: "Lecture 15"
 lecture_date: 2022-10-25
-desc: "(Thu Lecture): Review CATME results, Continue work on team02"
+desc: "(Thu Lecture): Review CATME results, Heroku Concurrent Build Limit, Continue work on team02"
 ready: true
 ---
 
@@ -10,7 +10,9 @@ ready: true
 
 # Today in class
 
-* We'll briefly discuss the CATME survey results
+* We'll briefly discuss 
+  - the CATME survey results
+  - Heroku concurrent build limit
 * Then: standup on team02
 * Then: work on team02
 
