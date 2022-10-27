@@ -89,10 +89,9 @@ Typically, the solution to the "The build failed with the message Your account h
 
 # CATME
 
-The results of the first CATME survey will be released sometime before class starts today 
-* i.e. before 5pm Thu Oct 27.  I'm just waiting on one student to finish.
+The results of the first CATME survey have been released.  Log in at <https://catme.org> with your `username@ucsb.edu` email to see them.
 
-Once they are released, I want to invite you to review them.
+Please review them now.
 
 There is some detail about CATME results in the "drop down" (if you click the arrow).
 
