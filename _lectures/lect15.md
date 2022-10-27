@@ -10,6 +10,7 @@ ready: true
 
 # Today in class
 
+* Bryan Zamora Flores has an announcement about **speed advising**.
 * We'll briefly discuss 
   - the CATME survey results
   - Heroku concurrent build limit
