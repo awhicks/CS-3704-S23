@@ -8,15 +8,29 @@ ready: true
 {% include drop_down_style.html %}
 
 
+# Today in class
 
-The results of the first CATME survey will be released sometime before class starts today (before 5pm Thu Oct 27).  I'm just waiting on one student to finish.
+* We'll briefly discuss the CATME survey results
+* Then: standup on team02
+* Then: work on team02
+
+# Topics Coming up soon:
+
+* team03 will add frontend development in JavaScript for CRUD operations on top of the backend we've already built
+* We'll discuss how to do an "Agile Retrospective", and then do one
+* We'll start looking at the legacy code projects
+
+# CATME
+
+The results of the first CATME survey will be released sometime before class starts today 
+* i.e. before 5pm Thu Oct 27.  I'm just waiting on one student to finish.
 
 Once they are released, I want to invite you to review them.
 
 There is some detail about CATME results in the "drop down" (if you click the arrow).
 
 <details>
-  <summary>About your CATME results</summary>
+  <summary>Details about your CATME results</summary>
 
 After they are released, you should be able to see something like this.  (These are all examples from CMPSC 156 but *not* from this quarter).
 
@@ -38,3 +52,4 @@ Following that, there are anonymized comments; they include your self-assessment
 <img width="918" alt="Screen Shot 2022-10-27 at 10 18 35 AM" src="https://user-images.githubusercontent.com/1119017/198356690-950572ba-0fb9-431d-959b-50319ffd3bd5.png">
   
 </details>
+
