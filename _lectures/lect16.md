@@ -5,12 +5,21 @@ desc: "Tue Lecture: First Retrospecive (Retro)"
 ready: true
 ---
 
+{% include drop_down_style.html %}
+
 # Reminder: Speed Advising Tomorrow
 
 See announcement from last Thursday's lecture
 
-<img src="https://user-images.githubusercontent.com/1119017/198417166-47e30cec-0c79-4cae-9574-0cb73d590997.jpg" alt="speed advising flyer" width="800" />
+<details>
+  
+<summary>
+Speed Advising: Wed Nov 2, 2pm-6pm, HFH 1132, Refreshments Served.
+</summary>
 
+<img src="https://user-images.githubusercontent.com/1119017/198417166-47e30cec-0c79-4cae-9574-0cb73d590997.jpg" alt="speed advising flyer" width="500" />
+  
+</details>
 
 # Today (outline)
 
