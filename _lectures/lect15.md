@@ -21,6 +21,7 @@ Speed Advising: Wed Nov 2, 2pm-6pm, HFH 1132, Refreshments Served.
 
 ![Speed Advising Flyer](https://user-images.githubusercontent.com/1119017/198417166-47e30cec-0c79-4cae-9574-0cb73d590997.jpg)
 
+<img src="https://user-images.githubusercontent.com/1119017/198417166-47e30cec-0c79-4cae-9574-0cb73d590997.jpg" alt="speed advising flyer" width="500" />
   
 </details>
 
