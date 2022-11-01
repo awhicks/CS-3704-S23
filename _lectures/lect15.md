@@ -7,6 +7,7 @@ ready: true
 
 {% include drop_down_style.html %}
 
+Video: <https://gauchocast.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2a0584c4-9fae-4ee7-a815-af40018826ad>
 
 # Today in class
 
