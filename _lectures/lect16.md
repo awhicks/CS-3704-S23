@@ -9,6 +9,9 @@ ready: true
 
 See announcement from last Thursday's lecture
 
+<img src="https://user-images.githubusercontent.com/1119017/198417166-47e30cec-0c79-4cae-9574-0cb73d590997.jpg" alt="speed advising flyer" width="800" />
+
+
 # Today (outline)
 
 * Pause all work/submission for team02, and **do the retro first**
