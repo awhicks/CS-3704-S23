@@ -9,6 +9,14 @@ ready: true
 
 See announcement from last Thursday's lecture
 
+# Today (outline)
+
+* Pause all work/submission for team02, and **do the retro first**
+
+Then:
+
+* **If done with team02**, handle the submission of team02.
+* **else /* not done with team02 */**: do a standup and more work on team02.
 
 # Retrospective: the heart of Agile
 
@@ -52,10 +60,11 @@ At the end of the process, you should have in your document:
 * A brief explanation of how you will know whether your experiment was or was not a success.
 
 After the retro is done, you can:
+
 * Ask a staff member to look over your GDrive document; they'll check it to make sure it has the required elements:
   - items from each member under start/stop/continue
   - dot voting
   - an experiment, including the criteria by which you can know whether the experiment was a success
-* Do a standup and more work on team02 if you need that.
+* **If done with team02**, handle the submission of team02.
+* **else /* not done with team02 */**: do a standup and more work on team02.
 
-* Otherwise, start work on [Homework H07](https://ucsb-cs156.github.io/s22/hwk/h07/); it's our first look at JavaScript, in preparation for working on React and the frontend.
