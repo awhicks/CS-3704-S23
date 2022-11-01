@@ -16,7 +16,7 @@ See announcement from last Thursday's lecture
 Then:
 
 * **If done with team02**, handle the submission of team02.
-* **else /* not done with team02 */**: do a standup and more work on team02.
+* **else** `/* not done with team02 */` : do a standup and more work on team02.
 
 # Retrospective: the heart of Agile
 
