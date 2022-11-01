@@ -55,7 +55,7 @@ Check that each member of the team is able to access the folder.
 
 In that folder, create a folder called `Retros` and in that folder, create a document `Retro1`
 
-Then follow the instructions in the <https://ucsb-cs156.github.io/topics/agile_retros/> article for  Stop/Start/Continue retro.
+Then follow the instructions in the [https://ucsb-cs156.github.io/topics/agile_retros/](https://ucsb-cs156.github.io/topics/agile/agile_retros.html) article for  Stop/Start/Continue retro.
 
 In the document, write down who your retro leader is.
 
