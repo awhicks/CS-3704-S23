@@ -15,8 +15,16 @@ See announcement from last Thursday's lecture
 
 Then:
 
-* **If done with team02**, handle the submission of team02.
+* **if (done with team02)**, handle the submission of team02 (see instructions on Canvas)
+  - One submission per team is enough
+  - Make sure links are clickable
+  - Make sure you've made `phtcon@ucsb.edu` and your mentor admins in the app itself (on prod and qa)
+  - Make sure you've shared the Heroku deployments (prod and qa) with whole team
+  - Check other Kanban board related things listed on Canvas
+  - Be sure current main branch is deployed on prod (qa may have any branch).
 * **else** `/* not done with team02 */` : do a standup and more work on team02.
+
+You may merge PRs and submit even if you don't (yet) have 100% code coverage or mutation coverage, but there may be deductions for that, so continue working on that if you can make the time to do so.   (If it's fixed before we get around to grading it, there is no penalty, though that would be an extra PR.)
 
 # Retrospective: the heart of Agile
 
