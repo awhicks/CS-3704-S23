@@ -31,16 +31,31 @@ starter: "git@github.com:ucsb-cs156-f22/STARTER-team03.git"
 {% include drop_down_style.html %}
 
 
+# Set up task for lab on Wednesday 11/02
+
+You should have six team members, and there a six setup tasks to do. So ideally, you'd divide these up
+one per person.
+
+But, if you have fewer than six team members present today, I suggest you still try to 
+get all six of these done with the team members you do have.
+
+Note that there is an order here, so keep that in mind when organizing tasks:
+
+* Setup Task 1: Creating your team's Kanban board (can be done at any time)
+* Setup Task 2: Populating team03 repo with starter code (can be done at any time)
+* Setup Task 3: Set up -docs and -docs-qa repos (must be done after 2)
+* Setup Task 4: Set up Google OAuth (may be done at any time, but must be coordinated with 5 and 6)
+
+
+
 ## Big Picture: what is team03 all about?
 
 From a high-level standpoint, you'll be doing these things:
 
-Set up Tasks:
+Set up Tasks to be done in lab today
+
 
 * Setting up qa and prod deployments on Heroku 
-  - If your team02 is graded, you may reuse your team02 heroku deployment
-  - No need to rename it; just deploy the new code base to it
-  - This will save you time, since you wont have to update the Google OAuth secrets
 * Configuring the `-docs` and `-docs-qa` repos
   - You will need to do this, and it will actually matter, since we'll be using Storybook
 * Configuring Codecov
@@ -94,7 +109,7 @@ Setup Task 1: Creating your team's Kanban board
 
    <img width="990" alt="image" src="https://user-images.githubusercontent.com/1119017/167972920-a8a0eb57-102e-43d1-baa6-f3cf2e964b2d.png">
 
-6. Fill in the project name with your team name (e.g. `s22-4pm-1`).  You can leave the description blank. Then select `Automated Kanban with Reviews` from the dropdown menu (as shown), and finally click the `Create Project` button.
+6. Fill in the project name with your team name (e.g. `f22-4pm-1`).  You can leave the description blank. Then select `Automated Kanban with Reviews` from the dropdown menu (as shown), and finally click the `Create Project` button.
    <img width="472" alt="image" src="https://user-images.githubusercontent.com/1119017/167973020-b9d862b4-3dc9-4110-8da5-6afb145a15b4.png">
 
 7. In the `To Do` column, you'll now have some annoying starter cards, as shown below.  Click in the three dots at upper right on
@@ -190,7 +205,7 @@ To do this, follow these steps:
      <img width="667" alt="image" src="https://user-images.githubusercontent.com/1119017/168150856-e3623eae-e041-4a02-814c-417566ff1d3a.png">
 
   
-7.   Return to your main team03 repo, and go to Settings page for `Secrets: Actions`  (This is done on the regular `team03-s22-4pm-1` repo, NOT on the `-docs` and `-docs-qa` repos.)
+7.   Return to your main team03 repo, and go to Settings page for `Secrets: Actions`  (This is done on the regular `team03-f22-4pm-1` repo, NOT on the `-docs` and `-docs-qa` repos.)
 
      <img width="270" alt="image" src="https://user-images.githubusercontent.com/1119017/168151099-7508f238-c9f2-4e2a-8721-8cbeb610cc30.png">
 
@@ -276,8 +291,8 @@ Remember: repeat these steps for both `-docs` and `-docs-qa`
   
 4. When each of these two jobs is finished, you should be able to navigate to your GitHub Pages sites at URLs like this (subsitute your own team name):
 
-    * <https://ucsb-cs156-s22.github.io/team03-s22-5pm-3-docs>
-    * <https://ucsb-cs156-s22.github.io/team03-s22-5pm-3-docs-qa>
+    * <https://ucsb-cs156-f22.github.io/team03-f22-5pm-3-docs>
+    * <https://ucsb-cs156-f22.github.io/team03-f22-5pm-3-docs-qa>
   
     And these links should show a Storybook page like the ones shown below (except your team name will show instead of `STARTER-team03`.  The branches
     listed may be different two, but this is the general idea of what the pages should look like.
@@ -292,15 +307,15 @@ Remember: repeat these steps for both `-docs` and `-docs-qa`
     ```
     TODO: Add correct links to the -docs and -docs qa GitHub pages sites
 
-    * Storybook (production): <https://ucsb-cs156-s22.github.io/STARTER-team03-docs>
-    * Storybook (development/qa): <https://ucsb-cs156-s22.github.io/STARTER-team03-docs-qa>
+    * Storybook (production): <https://ucsb-cs156-f22.github.io/STARTER-team03-docs>
+    * Storybook (development/qa): <https://ucsb-cs156-f22.github.io/STARTER-team03-docs-qa>
     ```
   
     After you edit, it should look like this (with links appropriate for your team). Note that you should *remove* the part that says `TODO`.
   
     ```
-    * Storybook (production): <https://ucsb-cs156-s22.github.io/team03-s22-6pm-4-docs>
-    * Storybook (development/qa): <https://ucsb-cs156-s22.github.io/team03-s22-6pm-4-docs-qa>
+    * Storybook (production): <https://ucsb-cs156-f22.github.io/team03-f22-6pm-4-docs>
+    * Storybook (development/qa): <https://ucsb-cs156-f22.github.io/team03-f22-6pm-4-docs-qa>
     ```
  
 That's it for this task.  
@@ -310,9 +325,15 @@ That's it for this task.
 
 <details>
 <summary>
-Setup Task 4: (may be done at any time, but must be coordinated with 5 and 6)
+Setup Task 4: Google OAuth (may be done at any time, but must be coordinated with 5 and 6)
 </summary>
   
+Coordinate with the folks doing task 5 and 6 so you know *exactly* what the URL will be for your
+prod and qa apps.
+
+Then set up Google OAuth for these.  You can do that by creating a new Google OAuth app, or if you have an existing one,
+you can just add more "callback urls" to the list of existing ones, e.g. 
+
   
 <details>
 <summary>
@@ -346,13 +367,13 @@ It will start out looking like this:
 ```
 TODO: Add a link to the deployed Heroku app for your team here, e.g.
 
-* <https://s22-7pm-3-team02.herokuapp.com>  
+* <https://f22-7pm-3-team02.herokuapp.com>  
 ```
 
-Change it so it looks like this (removing the TODO, and replacing `s22-7pm-3` with your team name:
+Change it so it looks like this (removing the TODO, and replacing `f22-7pm-3` with your team name:
 
 ```
-* Production deployment: <https://s22-7pm-3-team02.herokuapp.com>  
+* Production deployment: <https://f22-7pm-3-team02.herokuapp.com>  
 ```  
 
 That's it for this task.
