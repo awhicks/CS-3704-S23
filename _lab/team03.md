@@ -334,6 +334,17 @@ prod and qa apps.
 Then set up Google OAuth for these.  You can do that by creating a new Google OAuth app, or if you have an existing one,
 you can just add more "callback urls" to the list of existing ones, e.g. 
 
+<img width="559" alt="image" src="https://user-images.githubusercontent.com/1119017/199622864-76221ee8-6649-4f51-b9c3-4622cf01044b.png">
+
+Either way, your job is to end up with a value for `GOOGLE_CLIENT_ID` and `GOOGLE_CLIENT_SECRET` that you can put in the
+Config vars for your teams prod and qa Heroku deployments.
+  
+The folks doing Setup Tasks 5 and 6 may set up those values with placeholders, or they may not set them up at all, but it will be your job
+to make sure those have the correct values, and that Google OAuth then works.  You will need to collaborate with the folks doing Setup tasks 5 and 6.
+
+You are done when you can login with OAuth on both your prod and qa apps for team03.  
+  
+</details>
   
 <details>
 <summary>
@@ -376,7 +387,13 @@ Change it so it looks like this (removing the TODO, and replacing `f22-7pm-3` wi
 * Production deployment: <https://f22-7pm-3-team02.herokuapp.com>  
 ```  
 
-That's it for this task.
+The team member doing step 4 will be getting the correct values for `GOOGLE_CLIENT_ID` and `GOOGLE_CLIENT_SECRET` but they can't do that
+unless/until you give them access, which is one of the things you should have done above.
+  
+You will need to collaborate with the person doing Setup tasks 4.
+
+You are all three done with Setup Task 4, 5, 6  done when the team can login with OAuth on  your prod and qa apps for team03.  
+  
   
 </details>  
 
@@ -396,6 +413,14 @@ To save space, I won't repeat the instructions; just refer to those instructions
   
 2. Do not set up the app to automatically deploy the `main` branch.  Instead, deploy the `main` branch once (or as many times as you need to get the app up and running with OAuth)
    and then leave it for manual deploys of feature branches that need to be tested.
+  
+The team member doing step 4 will be getting the correct values for `GOOGLE_CLIENT_ID` and `GOOGLE_CLIENT_SECRET` but they can't do that
+unless/until you give them access, which is one of the things you should have done above.
+  
+So, you will need to collaborate with the person doing Setup tasks 4.
+
+You are all three done with Setup Task 4, 5, 6  done when the team can login with OAuth on  your prod and qa apps for team03.  
+    
   
 </details>  
 
@@ -440,11 +465,6 @@ For each, you should get all of the tests to pass before moving on to the next i
 * This exercise is designed to help you develop that skill.
 
 Once you've made the cards and converted them to issues, the next step is to add detail to each issue, including acceptance criteria.
-
-# Set up that needs to be done by each team member
-
-
-
 
 # Open up issues to work with them.
 
@@ -602,16 +622,19 @@ When all of your issues are either complete, or at least have open pull requests
 
 The team03 assignment will be followed shortly by team04, which will use the same repo, code base, and kanban board; you can think of it as "team03 part 2".
 
-In team04, you'll add a data entry form for each of your six database records.   That data entry form will be used for both entering new records (i.e. the POST route)
+# Will there be a team04
+  
+There may or may not be a team04; it depends on how much time is left.
+  
+If there is, in team04, you'll add a data entry form for each of your six database records.   That data entry form will be used for both entering new records (i.e. the POST route)
 as well as editing database records (the PUT) route.   You'll also add Create and Edit pages to the pages directory.
 
-You'll then hook up the "edit column" in the table to the Edit page.   That's coming soon.
+You'll then hook up the "edit column" in the table to the Edit page.   
 
 # Asking for help
 
-  
 If you need additional guidance, ask on the `#help-team03` channel, and we'll try to steer you in the right direction.
 
 # When you are done
 
-When all branches are merged to main, all tasks on Kanban board in the done column, please submit on [Gauchospace]({{page.gauchospace_url}})
+When all branches are merged to main, all tasks on Kanban board in the done column, please submit on Canvas as you did for team02.  Link coming soon.
