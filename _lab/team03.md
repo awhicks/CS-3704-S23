@@ -5,33 +5,15 @@ due: 2022-11-10 23:59
 github_org: ucsb-cs156-f22
 layout: lab
 num: team03
-ready: false
+ready: true
 starter: "git@github.com:ucsb-cs156-f22/STARTER-team03.git"
 ---
 
-# NOT READY YET
-# NOT READY YET
-# NOT READY YET
-# NOT READY YET
-# NOT READY YET
-# NOT READY YET
-# NOT READY YET
-# NOT READY YET
-# NOT READY YET
-# NOT READY YET
-# NOT READY YET
-# NOT READY YET
-# NOT READY YET
-# NOT READY YET
-# NOT READY YET
-# NOT READY YET
-# NOT READY YET
-# NOT READY YET
 
 {% include drop_down_style.html %}
 
 
-# Set up task for lab on Wednesday 11/02
+# Set up tasks for lab on Wednesday 11/02
 
 You should have six team members, and there a six setup tasks to do. So ideally, you'd divide these up
 one per person.
@@ -52,24 +34,9 @@ Note that there is an order here, so keep that in mind when organizing tasks:
 
 From a high-level standpoint, you'll be doing these things:
 
-Set up Tasks to be done in lab today
-
-
-* Setting up qa and prod deployments on Heroku 
-* Configuring the `-docs` and `-docs-qa` repos
-  - You will need to do this, and it will actually matter, since we'll be using Storybook
-* Configuring Codecov
-* Setting up your own Kanban board
-  - In this project, you'll create a Kanban board from scratch
-  - You'll also be responsible for creating your own issues and adding the acceptance criteria
-
 Coding Tasks:
-* Adding the index page and table components for each of your six database tables
+* Adding some front end components for each of your six database tables
 * Adding tests for these
-
-In team04, we'll add the create and edit functions as well.  For team03, you'll continue to create and edit through the Swagger endpoints directly.
-
-For this assignment, we are still dealing directly with the backend via Swagger.
 
 # Set up Tasks
 
