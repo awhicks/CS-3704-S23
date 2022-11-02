@@ -7,6 +7,8 @@ ready: true
 
 {% include drop_down_style.html %}
 
+Video: <https://gauchocast.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=07c21df3-b04f-412b-95a7-af41000a26bc>
+
 # Reminder: Speed Advising Tomorrow
 
 See announcement from last Thursday's lecture
