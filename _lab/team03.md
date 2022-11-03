@@ -63,33 +63,13 @@ Setup Task 1: Creating your team's Kanban board
 
 2. Go to this URL: https://github.com/orgs/ucsb-cs156-f22/projects
 
+3. Click "Add Project".  In the modal that pops up, select "New Board".  (If you accidentally create a table, you can convert it to a Board later.)
   
-3. Click on the Projects tab. It should look like this:
-
-   <img width="593" alt="image" src="https://user-images.githubusercontent.com/1119017/167972688-04403c2b-65cf-4790-9a22-b7e8bc850061.png">
-
-4. Click on the bottom `Projects` button (not the `Beta` one, but the other one). Your screen should then look like this:
-
-   <img width="1183" alt="image" src="https://user-images.githubusercontent.com/1119017/167972869-361f8df9-3d0b-4ede-bf38-df3fee636135.png">
-
-5. Click the green `New Project` button, at upper right.  Your screen should then look like this:
-
-   <img width="990" alt="image" src="https://user-images.githubusercontent.com/1119017/167972920-a8a0eb57-102e-43d1-baa6-f3cf2e964b2d.png">
-
-6. Fill in the project name with your team name (e.g. `f22-4pm-1`).  You can leave the description blank. Then select `Automated Kanban with Reviews` from the dropdown menu (as shown), and finally click the `Create Project` button.
-   <img width="472" alt="image" src="https://user-images.githubusercontent.com/1119017/167973020-b9d862b4-3dc9-4110-8da5-6afb145a15b4.png">
-
-7. In the `To Do` column, you'll now have some annoying starter cards, as shown below.  Click in the three dots at upper right on
-   each of them to get rid of them, so that you have an empty board:
-
-   <img width="438" alt="image" src="https://user-images.githubusercontent.com/1119017/167973169-b79f2879-cab8-4f2e-8f8d-ace42d1675cf.png">
-
-   When done, it should look like this:
-
-   <img width="1720" alt="image" src="https://user-images.githubusercontent.com/1119017/167973263-66ee283e-7289-4d6d-8ac0-491cf367343c.png">
-
-8. Congratulations: your team can now start adding issues to your Kanban board.
-
+4. Name your project team03-f22-6pm-3 (substitue your team name)
+  
+5. Then, share your project with your team.  You don't need to share it one person at a time.
+  
+  
 </details>
   
 <details>
