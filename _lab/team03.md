@@ -69,6 +69,12 @@ Setup Task 1: Creating your team's Kanban board
   
 5. Then, share your project with your team.  You don't need to share it one person at a time; you can just share it with the team name (e.g. `f22-5pm-3`) and give them `Admin` access.
   
+6. Add a column for "In Review" to the three default columns, and drag it to the proper spot.
+  
+7. Add a link to your team's slack channel for your Kanban board.   It looks like this:
+  
+  
+  
   
 </details>
   
