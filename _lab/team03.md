@@ -67,7 +67,7 @@ Setup Task 1: Creating your team's Kanban board
   
 4. Name your project team03-f22-6pm-3 (substitue your team name)
   
-5. Then, share your project with your team.  You don't need to share it one person at a time.
+5. Then, share your project with your team.  You don't need to share it one person at a time; you can just share it with the team name (e.g. `f22-5pm-3`) and give them `Admin` access.
   
   
 </details>
