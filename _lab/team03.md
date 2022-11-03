@@ -27,7 +27,8 @@ Note that there is an order here, so keep that in mind when organizing tasks:
 * Setup Task 2: Populating team03 repo with starter code (can be done at any time)
 * Setup Task 3: Set up -docs and -docs-qa repos (must be done after 2)
 * Setup Task 4: Set up Google OAuth (may be done at any time, but must be coordinated with 5 and 6)
-
+* Setup Task 5: Push main branch to team03 heroku prod (must be done after 2 and in coordination with 4)
+* Setup Task 6: Push main branch to team02 heroku qa (must be done after 2 and in coordination with 4)
 
 
 ## Big Picture: what is team03 all about?
