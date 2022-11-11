@@ -31,3 +31,5 @@ team_7pm_4_kanban: https://github.com/ucsb-cs156-s21/proj-mapache-search/project
 |---------|-------|
 | proj-courses | f22-5pm-1, f22-5pm-2, f22-6pm-1, f22-6pm-2, f22-7pm-1, f22-7pm-2 |
 | proj-happycows | f22-5pm-3, f22-5pm-4, f22-6pm-3, f22-6pm-4, f22-7pm-3, f22-7pm-4 |
+{:.table .table-sm .table-striped .table-bordered}
+
