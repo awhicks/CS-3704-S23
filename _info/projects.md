@@ -24,8 +24,10 @@ team_7pm_3_kanban: https://github.com/ucsb-cs156-s21/proj-mapache-search/project
 team_7pm_4_kanban: https://github.com/ucsb-cs156-s21/proj-mapache-search/projects/13
 ---
 
-* [Spring 2021 Projects Page](https://ucsb-cs156.github.io/s21/info/projects)
-* [Winter 2021 Projects Page](https://ucsb-cs156.github.io/w21/info/projects)
-* [Fall 2020 Projects Page](https://ucsb-cs156.github.io/f20/info/projects)
 
-S22 Projects Coming Soon
+# F22 Projects 
+
+| Project |
+|---------|
+| proj-courses | f22-5pm-1, f22-5pm-2, f22-6pm-1, f22-6pm-2, f22-7pm-1, f22-7pm-2 |
+| proj-happycows | f22-5pm-3, f22-5pm-4, f22-6pm-3, f22-6pm-4, f22-7pm-3, f22-7pm-4 |
