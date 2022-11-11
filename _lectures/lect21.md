@@ -21,9 +21,20 @@ This deadline is *strict*.
 * REFLECTION: please do reflect on your practice continuously, and share those reflections in your team slack channel.   Reflection, in this context, means the type of thinking you do in a Retrospective: any observations about what you can start, stop, or continue doing to be more effective as a team or as an individual.
 * Discussion section is cancelled on the Wednesday before Thanksgiving day.   However, I encourage you to put in some work to make up for that either before, during or immediately after T'giving break, using your Slack channel to coordinate with your team.
 
+# This Coming Tuessday: New Seating Chart
 
+Same teams, but different tables.
 
+Reason: We'll be putting teams in pairs that are working on the same repo.
 
+e.g. 
+
+* f22-5pm-1, f22-5pm-2
+* f22-6pm-1, f22-6pm-2
+* f22-7pm-1, f22-7pm-2
+* f22-5pm-3, f22-5pm-4
+* f22-6pm-3, f22-6pm-4
+* f22-7pm-3, f22-7pm-4
 
 
 
