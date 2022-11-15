@@ -67,11 +67,12 @@ Here are links to the QA deployments:
 | f22-7pm-4 | <https://f22-7pm-4-happycows.herokuapp.com> |
 {:.table .table-sm .table-striped .table-bordered}
 
-# "Chores" to add to your board
+# "Chores" to try to get done *today* in class:
 
 ## All Teams
 
 * Add all team members and staff members to the team's QA deployment on Heroku
+  * Some teams already did this before class.
 * Set up Google OAuth for the team's QA deployment on Heroku, and define `GOOGLE_CLIENT_ID` and `GOOGLE_CLIENT_SECRET`
 * Add an "In Review" column to the team's Kanban board
 
