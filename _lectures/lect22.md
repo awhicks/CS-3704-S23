@@ -32,3 +32,8 @@ The repo you'll be working in for the remainder of the quarter is shown in the t
 | f22-7pm-1 | f22-7pm-2 | <https://github.com/ucsb-cs156-f22/f22-7pm-courses>    |
 | f22-7pm-3 | f22-7pm-4 | <https://github.com/ucsb-cs156-f22/f22-7pm-happycows>  |
 {:.table .table-sm .table-striped .table-bordered}
+
+# Kanban Boards
+
+Here are the Kanban boards for your teams
+
