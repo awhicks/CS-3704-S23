@@ -59,6 +59,7 @@ Your New Repos
 Kanban Boards
 </summary>
 
+Your team should have `admin` access to it's own Kanban board, and `read only` access to it's "partner" team's Kanban board.
  
 | Team      |  Kanban Board            |
 |-----------|----------------------------------------------------------------|
