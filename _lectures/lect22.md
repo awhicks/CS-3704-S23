@@ -5,19 +5,25 @@ desc: "Thu Lecture (LAUNCH Legacy Code projects!)"
 ready: false
 ---
 
-
-# NOT READY YET
-# NOT READY YET
-# NOT READY YET
-# NOT READY YET
-# NOT READY YET
-# NOT READY YET
-# NOT READY YET
+{% include drop_down_style.html %}
 
 
-# New Seating Chart
+# NOT READY YET
+# NOT READY YET
+# NOT READY YET
+# NOT READY YET
+# NOT READY YET
+# NOT READY YET
+# NOT READY YET
 
+
+<details>
+<summary>
+New Seating Chart
+</summary>
 ![SH1431-F22-Legacy](https://user-images.githubusercontent.com/1119017/201814308-6d2f933c-64e6-4f79-be36-ef1a020f78da.png)
+</details>
+
 
 # Your New Repo
 
@@ -28,6 +34,11 @@ Therefore:
 * You can get changes into the `main` branch through PRs
 * Only staff can merge PRs into `main` (this is similar to many real world shops where only QA merges code into `main`)
 * When code gets merged into `main`, your entire team earns points.
+
+<details>
+<summary>
+Your New Repos
+</summary>
 
 
 | Team      | Team      | Repo                                                   |
@@ -40,12 +51,36 @@ Therefore:
 | f22-7pm-3 | f22-7pm-4 | <https://github.com/ucsb-cs156-f22/f22-7pm-happycows>  |
 {:.table .table-sm .table-striped .table-bordered}
 
-# Kanban Boards
-
-Here are the Kanban boards for your teams
+</details>
 
 
-# Team QA Deployment on Heroku
+<details>
+<summary>
+Kanban Boards
+</summary>
+
+ 
+| Team      |  Kanban Board            |
+|-----------|----------------------------------------------------------------|
+| f22-5pm-1-courses | <https://github.com/orgs/ucsb-cs156-f22/projects/48>  |
+| f22-5pm-2-courses | <https://github.com/orgs/ucsb-cs156-f22/projects/49>  |
+| f22-6pm-1-courses | <https://github.com/orgs/ucsb-cs156-f22/projects/50>  |
+| f22-6pm-2-courses | <https://github.com/orgs/ucsb-cs156-f22/projects/51>  |
+| f22-7pm-1-courses | <https://github.com/orgs/ucsb-cs156-f22/projects/52>  |
+| f22-7pm-2-courses | <https://github.com/orgs/ucsb-cs156-f22/projects/53>  |
+{:.table .table-sm .table-striped .table-bordered}
+
+ 
+
+ </details>
+
+
+ 
+ 
+<details>
+<summary>
+Team QA Deployment on Heroku
+</summary>
 
 Each team has a QA deployment on Heroku.  Since you do not have admin access to the repos, we have set up these QA deployments for you.
 
@@ -66,6 +101,14 @@ Here are links to the QA deployments:
 | f22-7pm-3 | <https://f22-7pm-3-happycows.herokuapp.com> |
 | f22-7pm-4 | <https://f22-7pm-4-happycows.herokuapp.com> |
 {:.table .table-sm .table-striped .table-bordered}
+
+</details>
+
+
+ 
+# Team QA Deployment on Heroku
+
+
 
 # "Chores" to try to get done *today* in class:
 
