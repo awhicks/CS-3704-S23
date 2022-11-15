@@ -115,15 +115,12 @@ Here are links to the QA deployments:
 </details>
 
 
- 
-# Team QA Deployment on Heroku
-
-
 
 # "Chores" to try to get done *today* in class:
 
 ## All Teams
 
+* Introduce yourself to the folks on your "partner" team.
 * Add all team members and staff members to the team's QA deployment on Heroku
   * Some teams already did this before class.
 * Set up Google OAuth for the team's QA deployment on Heroku, and define `GOOGLE_CLIENT_ID` and `GOOGLE_CLIENT_SECRET`
