@@ -64,13 +64,17 @@ Kanban Boards
 |-----------|----------------------------------------------------------------|
 | f22-5pm-1-courses | <https://github.com/orgs/ucsb-cs156-f22/projects/48>  |
 | f22-5pm-2-courses | <https://github.com/orgs/ucsb-cs156-f22/projects/49>  |
+| f22-5pm-3-happycows | <https://github.com/orgs/ucsb-cs156-f22/projects/54>  |
+| f22-5pm-4-happycows | <https://github.com/orgs/ucsb-cs156-f22/projects/55>  |
 | f22-6pm-1-courses | <https://github.com/orgs/ucsb-cs156-f22/projects/50>  |
 | f22-6pm-2-courses | <https://github.com/orgs/ucsb-cs156-f22/projects/51>  |
+| f22-6pm-3-happycows | <https://github.com/orgs/ucsb-cs156-f22/projects/56>  |
+| f22-6pm-4-happycows | <https://github.com/orgs/ucsb-cs156-f22/projects/57>  |
 | f22-7pm-1-courses | <https://github.com/orgs/ucsb-cs156-f22/projects/52>  |
 | f22-7pm-2-courses | <https://github.com/orgs/ucsb-cs156-f22/projects/53>  |
+| f22-7pm-3-happycows | <https://github.com/orgs/ucsb-cs156-f22/projects/58>  |
+| f22-7pm-4-happycows | <https://github.com/orgs/ucsb-cs156-f22/projects/59>  |
 {:.table .table-sm .table-striped .table-bordered}
-
- 
 
  </details>
 
