@@ -30,14 +30,7 @@ The repo you'll be working in for the remainder of the quarter is shown in the t
 
 Note that your team may be listed in column 1, or column 2, since two teams share a repo.  When we say "partner team", we mean the team that you share a repo with.
 
-Note that unlike in the previous phases of the course, you do NOT have `admin` access to these repos: only the staff do.
 
-Therefore:
-* You cannot push directly to the `main` branch (it has branch protection rules in place). 
-* You can get changes into the `main` branch through PRs
-* Only staff can merge PRs into `main` (this is similar to many real world shops where only QA merges code into `main`)
-* When code gets merged into `main`, your entire team earns points.
-* PRs are typically worth either 5, 10 or 20 points each, depending on the degree of complexity involved.
 
 <details>
 <summary>
@@ -57,13 +50,51 @@ Your New Repos
 
 </details>
 
+# New Workflow for legacy code projects 
+ 
+Note that unlike in the previous phases of the course, you do NOT have `admin` access to these repos: only the staff do.
 
+Therefore:
+* You cannot push directly to the `main` branch (it has branch protection rules in place). 
+* You can get changes into the `main` branch through PRs
+* Only staff can merge PRs into `main` (this is similar to many real world shops where only QA merges code into `main`)
+* When code gets merged into `main`, your entire team earns points.
+* PRs are typically worth either 5, 10 or 20 points each, depending on the degree of complexity involved.
+
+Note that each repo is starting "green on CI", and we want to keep it that way
+
+That means maintaining 100% test coverage and mutation coverage, subject to exclusions authorized by the staff
+- You can exclude code from test coverage or mutation coverage when needed
+- For Java code, exceptions for both both Jacoco and Pitest are typically specified in the `pom.xml`
+- Exceptions for jest (`npm run coverage`) are done in `package.json`
+- Exceptions for stryker can typically be done inline using specially formatted comments
+ 
+
+# What you must do before code can be merged into main
+ 
+* PR, with good description
+  - At a minimum, tell us briefly what the PR does.
+  - When there are user facing changes, document those with screenshots or animations (Licecap is a good tool for animations)
+  - Tell us how to test, if it is not obvious
+  - If it's a frontend change, link to Storybook entries; that's what the `-docs-qa` repo is for!
+* Must be green on CI; that means there should be good test coverage
+* If there are new React components, there should be storybook entries
+* Code review from a team member that didn't write the code
+* Code review from a staff member.  Start with your mentor, but any staff member will do
+* Deploy it on your team's QA site and actually test it there. Sometimes things work on `localhost` and then do *not* work on Heroku. 
+ 
+ 
+# Kanban boards
+ 
 <details>
 <summary>
 Kanban Boards
 </summary>
 
 Your team should have `admin` access to it's own Kanban board, and `read only` access to it's "partner" team's Kanban board.
+ 
+Your Kanban board is empty now; we'll explain where you get your issues from shortly.
+ 
  
 | Team      |  Kanban Board            |
 |-----------|----------------------------------------------------------------|
@@ -83,8 +114,6 @@ Your team should have `admin` access to it's own Kanban board, and `read only` a
 
  </details>
 
-
- 
  
 <details>
 <summary>
