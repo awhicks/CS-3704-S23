@@ -7,15 +7,14 @@ ready: false
 
 {% include drop_down_style.html %}
 
+# Launching the legacy code projects!
 
-# NOT READY YET
-# NOT READY YET
-# NOT READY YET
-# NOT READY YET
-# NOT READY YET
-# NOT READY YET
-# NOT READY YET
+Our goals for today:
 
+* Make sure each team knows which project it is working on
+* Make sure each team knows which repo it is working in
+* Make sure each team knows which other team it is partnering with
+* Make sure each individual is able to get the repo cloned on their own machine and working on localhost (or in a GitHub Codespace)
 
 <details>
 <summary>
@@ -131,14 +130,14 @@ Here are links to the QA deployments:
 
 # Personal Setup Tasks
  
-The big picture task: make sure that you are able to clone the repo for your team to your own machine (or a Google Codespace) and get it working
+The big picture task: make sure that you are able to clone the repo for your team to your own machine (or a GitHub Codespace) and get it working
 on localhost, so that you have a development environment where you can work on the project.
  
 If you can't do that, you can't even get started, so we really need to make sure that works before anything else.
 
 * Clone the repo to your machine, or in a Google Codespace
 * Set up a personal `.env` file (i.e. copy `.env.SAMPLE` to `.env` and put in values for `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET`, `ADMIN_EMAILS`, and for courses search only, `UCSB_API_KEY`).
-* Get the app to run on your localhost or Google Codespace platform
+* Get the app to run on your localhost or GitHub Codespace platform
 
 # Where do the issues come from?
  
