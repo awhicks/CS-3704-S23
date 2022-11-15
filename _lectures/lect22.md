@@ -21,7 +21,14 @@ ready: false
 
 # Your New Repo
 
-The repo you'll be working in for the remainder of the quarter is shown in the table below.  Note that your team may be listed in column 1, or column 2, since two teams share a repo.
+The repo you'll be working in for the remainder of the quarter is shown in the table below.  Note that your team may be listed in column 1, or column 2, since two teams share a repo.  Note that unlike in the previous phases of the course, you do NOT have `admin` access to these repos: only the staff do.
+
+Therefore:
+* You cannot push directly to the `main` branch (it has branch protection rules in place). 
+* You can get changes into the `main` branch through PRs
+* Only staff can merge PRs into `main` (this is similar to many real world shops where only QA merges code into `main`)
+* When code gets merged into `main`, your entire team earns points.
+
 
 | Team      | Team      | Repo                                                   |
 |-----------|-----------|--------------------------------------------------------|
@@ -36,4 +43,44 @@ The repo you'll be working in for the remainder of the quarter is shown in the t
 # Kanban Boards
 
 Here are the Kanban boards for your teams
+
+
+# Team QA Deployment on Heroku
+
+Each team has a QA deployment on Heroku.  Since you do not have admin access to the repos, we have set up these QA deployments for you.
+
+Here are links to the QA deployments:
+
+| Team | QA Deployment | 
+|------|---------------|
+| f22-5pm-1 | <https://f22-5pm-1-courses.herokuapp.com> |
+| f22-5pm-2 | <https://f22-5pm-2-courses.herokuapp.com> |
+| f22-5pm-3 | <https://f22-5pm-3-happycows.herokuapp.com> |
+| f22-5pm-4 | <https://f22-5pm-4-happycows.herokuapp.com> |
+| f22-6pm-1 | <https://f22-6pm-1-courses.herokuapp.com> |
+| f22-6pm-2 | <https://f22-6pm-2-courses.herokuapp.com> |
+| f22-6pm-3 | <https://f22-6pm-3-happycows.herokuapp.com> |
+| f22-6pm-4 | <https://f22-6pm-4-happycows.herokuapp.com> |
+| f22-7pm-1 | <https://f22-7pm-1-courses.herokuapp.com> |
+| f22-7pm-2 | <https://f22-7pm-2-courses.herokuapp.com> |
+| f22-7pm-3 | <https://f22-7pm-3-happycows.herokuapp.com> |
+| f22-7pm-4 | <https://f22-7pm-4-happycows.herokuapp.com> |
+{:.table .table-sm .table-striped .table-bordered}
+
+# "Chores" to add to your board
+
+## All Teams
+
+* Add all team members and staff members to the team's QA deployment on Heroku
+* Set up Google OAuth for the team's QA deployment on Heroku, and define `GOOGLE_CLIENT_ID` and `GOOGLE_CLIENT_SECRET`
+* Add an "In Review" column to the team's Kanban board
+
+## Courses Teams Only
+
+* Get a value for UCSB_API_KEY from the instructor and add that as a config var on your team's qa deployment on Heroku.
+
+# Personal Setup Tasks
+
+* Clone the repo to your machine, or in a Google Codespace
+* Set up a personal `.env` file (i.e. copy `.env.SAMPLE` to `.env` and put in values for `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET`, `ADMIN_EMAILS`, and for courses search only, `UCSB_API_KEY`).
 
