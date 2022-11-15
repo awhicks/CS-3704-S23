@@ -45,14 +45,14 @@ Your New Repos
 </summary>
 
 
-| Team      | Team      | Repo                                                   |
-|-----------|-----------|--------------------------------------------------------|
-| f22-5pm-1 | f22-5pm-2 | <https://github.com/ucsb-cs156-f22/f22-5pm-courses>    |
-| f22-5pm-3 | f22-5pm-4 | <https://github.com/ucsb-cs156-f22/f22-5pm-happycows>  |
-| f22-6pm-1 | f22-6pm-2 | <https://github.com/ucsb-cs156-f22/f22-6pm-courses>    |
-| f22-6pm-3 | f22-6pm-4 | <https://github.com/ucsb-cs156-f22/f22-6pm-happycows>  |
-| f22-7pm-1 | f22-7pm-2 | <https://github.com/ucsb-cs156-f22/f22-7pm-courses>    |
-| f22-7pm-3 | f22-7pm-4 | <https://github.com/ucsb-cs156-f22/f22-7pm-happycows>  |
+| Team      | Team      | Repo                                                   | Docs | Docs-qa |
+|-----------|-----------|--------------------------------------------------------|------|---------|
+| f22-5pm-1 | f22-5pm-2 | <https://github.com/ucsb-cs156-f22/f22-5pm-courses>    | [docs](https://ucsb-cs156-f22.github.io/f22-5pm-courses-docs) | [docs-qa](https://ucsb-cs156-f22.github.io/f22-5pm-courses-docs-qa) |
+| f22-5pm-3 | f22-5pm-4 | <https://github.com/ucsb-cs156-f22/f22-5pm-happycows>  | [docs](https://ucsb-cs156-f22.github.io/f22-5pm-happycows-docs) | [docs-qa](https://ucsb-cs156-f22.github.io/f22-5pm-happycows-docs-qa) |
+| f22-6pm-1 | f22-6pm-2 | <https://github.com/ucsb-cs156-f22/f22-6pm-courses>    | [docs](https://ucsb-cs156-f22.github.io/f22-6pm-courses-docs) | [docs-qa](https://ucsb-cs156-f22.github.io/f22-6pm-courses-docs-qa) |
+| f22-6pm-3 | f22-6pm-4 | <https://github.com/ucsb-cs156-f22/f22-6pm-happycows>  | [docs](https://ucsb-cs156-f22.github.io/f22-6pm-happycows-docs) | [docs-qa](https://ucsb-cs156-f22.github.io/f22-6pm-happycows-docs-qa) |
+| f22-7pm-1 | f22-7pm-2 | <https://github.com/ucsb-cs156-f22/f22-7pm-courses>    | [docs](https://ucsb-cs156-f22.github.io/f22-7pm-courses-docs) | [docs-qa](https://ucsb-cs156-f22.github.io/f22-7pm-courses-docs-qa) |
+| f22-7pm-3 | f22-7pm-4 | <https://github.com/ucsb-cs156-f22/f22-7pm-happycows>  | [docs](https://ucsb-cs156-f22.github.io/f22-7pm-happycows-docs) | [docs-qa](https://ucsb-cs156-f22.github.io/f22-7pm-happycows-docs-qa) |
 {:.table .table-sm .table-striped .table-bordered}
 
 </details>
