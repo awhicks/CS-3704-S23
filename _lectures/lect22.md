@@ -83,4 +83,5 @@ Here are links to the QA deployments:
 
 * Clone the repo to your machine, or in a Google Codespace
 * Set up a personal `.env` file (i.e. copy `.env.SAMPLE` to `.env` and put in values for `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET`, `ADMIN_EMAILS`, and for courses search only, `UCSB_API_KEY`).
+* Get the app to run on your localhost or Google Codespace platform
 
