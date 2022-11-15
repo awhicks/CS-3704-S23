@@ -27,13 +27,18 @@ New Seating Chart
 
 # Your New Repo
 
-The repo you'll be working in for the remainder of the quarter is shown in the table below.  Note that your team may be listed in column 1, or column 2, since two teams share a repo.  Note that unlike in the previous phases of the course, you do NOT have `admin` access to these repos: only the staff do.
+The repo you'll be working in for the remainder of the quarter is shown in the table below.  
+
+Note that your team may be listed in column 1, or column 2, since two teams share a repo.  When we say "partner team", we mean the team that you share a repo with.
+
+Note that unlike in the previous phases of the course, you do NOT have `admin` access to these repos: only the staff do.
 
 Therefore:
 * You cannot push directly to the `main` branch (it has branch protection rules in place). 
 * You can get changes into the `main` branch through PRs
 * Only staff can merge PRs into `main` (this is similar to many real world shops where only QA merges code into `main`)
 * When code gets merged into `main`, your entire team earns points.
+* PRs are typically worth either 5, 10 or 20 points each, depending on the degree of complexity involved.
 
 <details>
 <summary>
