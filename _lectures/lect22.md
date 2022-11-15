@@ -17,3 +17,4 @@ ready: false
 
 # New Seating Chart
 
+![SH1431-F22-Legacy](https://user-images.githubusercontent.com/1119017/201814308-6d2f933c-64e6-4f79-be36-ef1a020f78da.png)
