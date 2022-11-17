@@ -1,7 +1,7 @@
 ---
 num: "Lecture 22"
-lecture_date: 2022-11-14
-desc: "Thu Lecture (LAUNCH Legacy Code projects!)"
+lecture_date: 2022-11-15
+desc: "Tue Lecture (LAUNCH Legacy Code projects!)"
 ready: false
 ---
 
