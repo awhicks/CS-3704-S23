@@ -10,6 +10,9 @@ Work on legacy code projects in your teams.
 # Outline
 
 * New CATME survey: please do it *immediatly after class* if you can, but definitely *before midnight tonight*.
+  - If there are issues with folks not pulling their weight on your team, *PLEASE* be frank about that.
+  - Try to be constructive, kind, and respectful, but also honest and frank.
+  - If I know what's happening, I can try to help.  If I don't, there's nothing I can do.
 * Some information below on MongoDB for the courses teams
 
 {% include drop_down_style.html %}
