@@ -181,7 +181,7 @@ Your video should be 5 to 8 minutes long, and cover these points:
 * Next, if there is time remaining to reach the 5-10 minute mark, you may briefly cover any technical and/or non-technical challenges your team faced
   - You don't have to cover everything.  
   - You don't really even have to include this part if your demo already hits the 5-10 minute range.
-  - If you do include this part, focus on the items that you think would be interesting to the audience (fellow students in CS156 F20, and the staff of CS156 F20). 
+  - If you do include this part, focus on the items that you think would be interesting to the audience (fellow students in CS156 F22, and the staff of CS156 F22). 
   - Possible items to include
     - Particularly interesting technical details of what you had to write in the code
     - Challenges in testing
