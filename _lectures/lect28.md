@@ -162,4 +162,9 @@ Example Videos (these teams gave me permission to share them publically)
 * [s22-5pm-happycows](https://drive.google.com/file/d/1WHxpYGr9UQYEQFUomv9NpUXZ5MkwvHXL/view)
 * [s22-6pm-courses](https://www.youtube.com/watch?v=v3rP1a6yf9A)  
   
+* [W22-7pm-1 courses](https://drive.google.com/file/d/1i_lIyzWLFyUkyDSHmsumgim1HsPp35u9/view?usp=sharing)
+* [W22-6pm-2 courses](https://youtu.be/g3xrcSSBOGs)
+* [W22-5pm-2 courses](https://www.youtube.com/watch?v=OYj6NVf9-ls)
+* [W22-7pm-3 HappyCows](https://youtu.be/RJ8Tf_xfN9E)
+  
 </details>
