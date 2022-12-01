@@ -203,12 +203,18 @@ Please then also poll your team members and let me know your thoughts about the 
 Example Videos (these teams gave me permission to share them publically)
 </summary>
   
-* [s22-4pm-courses](https://www.youtube.com/watch?v=aRSIdiHSZOI)
-* [s22-4pm-courses](https://drive.google.com/file/d/1TtjZmlN3W9fAiQS0brLsyMw5KE_ix0Oi/view)
-* [s22-4pm-happycows](https://www.youtube.com/watch?v=U5l8mp6F3OU)
-* [s22-4pm-happycows](https://www.youtube.com/watch?v=CTqyYt5ob4c)
-* [s22-5pm-courses](https://drive.google.com/file/d/17KYDvB2EDmShv2Gr1Ux-rf1917Lw6AHJ/view)
-* [s22-5pm-happycows](https://drive.google.com/file/d/1WHxpYGr9UQYEQFUomv9NpUXZ5MkwvHXL/view)
-* [s22-6pm-courses](https://www.youtube.com/watch?v=v3rP1a6yf9A)  
+  
+* [s22-4pm-1 courses](https://www.youtube.com/watch?v=aRSIdiHSZOI)
+* [s22-4pm-2 courses](https://drive.google.com/file/d/1TtjZmlN3W9fAiQS0brLsyMw5KE_ix0Oi/view)
+* [s22-4pm-3 happycows](https://www.youtube.com/watch?v=U5l8mp6F3OU)
+* [s22-4pm-4 happycows](https://www.youtube.com/watch?v=CTqyYt5ob4c)
+* [s22-5pm-2 courses](https://drive.google.com/file/d/17KYDvB2EDmShv2Gr1Ux-rf1917Lw6AHJ/view)
+* [s22-5pm-3 happycows](https://drive.google.com/file/d/1WHxpYGr9UQYEQFUomv9NpUXZ5MkwvHXL/view)
+* [s22-6pm-1 courses](https://www.youtube.com/watch?v=v3rP1a6yf9A)
+  
+* [W22-7pm-1 courses](https://drive.google.com/file/d/1i_lIyzWLFyUkyDSHmsumgim1HsPp35u9/view?usp=sharing)
+* [W22-6pm-2 courses](https://youtu.be/g3xrcSSBOGs)
+* [W22-5pm-2 courses](https://www.youtube.com/watch?v=OYj6NVf9-ls)
+* [W22-7pm-3 HappyCows](https://youtu.be/RJ8Tf_xfN9E)
   
 </details>
