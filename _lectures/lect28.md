@@ -8,24 +8,22 @@ ready: false
 {% include drop_down_style.html %}
 
 
-# Yeah, it's the same plan
+CONGRATULATIONS!  For the first time ever since we adopted this way of doing points (which is at least six offerings of CS156, and I think goes back even further)... all teams have earned the maximum 110/100 points, with everything wrapped up before the last lecture.
+In previous quarters, there was always at least one (sometimes more than one) "problem team" that needed multiple day extensions to get to the finish line.
+I think it's a testament both to the great staff: (Vivian, Bryan, Avishek and Andrew) as well as all of you.   Well done!
 
-As of right now, the plan for Thursday is the same as the plan for Wednesday section, just more time.
+For tonight:
+* **ESCIs**: Please fill out your ESCIs.  It really really matters, especially because next year is my "once every three year performance evaluation" by the University.
+* **CATME**: There's a CATME survey due at midnight tonight.  
+  - Maybe fill it out now?  Maybe right after class? 
+  - This is the next to the last one (the last one will be after the final demos) and should be filled out on the basis of everything up to now.   
+  - There is one last chance for anyone that hasn't been pulling their weight to help out a LOT with the final demo, so if that's the case on your team, please let your colleagues know.  
+  - On the other hand, if you really appreciate some members of your team, this is the chance to point that out and share that with them in the comments!
+* **AMA**: An "ask me anything" session--i.e. Q&A with Conrad.
+* **Final Presentations**: Time to plan for, and work on, your final presentations, and celebrate your accomplishments with your team.
 
-That could change, and if it does, I'll let you know.
 
-# ESCIs: please don't forget to fill them out!
 
-They are super important.
-
-# Final CATME survey, and the end of quarter post-survey
-
-* You'll get a link to final CATME survey over the weekend.
-* Link to post survey (for extra credit) will be showing up on Slack and Canvas soon.
-
-If you did not fill out the pre-survey, but would still like to do so for extra credit, 
-and/or to offer your informed consent to allow us to use your data for research,
-let me know via Slack DM and I'll send you the link.
 
 # Final Exam Slot: for presentations
 
@@ -35,60 +33,7 @@ The instructions for the final video are listed below.
   - There's a participation grade for providing feedback on one another's presentations
   - There's a live demo component as well, and your team needs to be represented there.
 
-# Today
 
-* Get PRs merged
-* Plan for video
-
-
-
-<details>
-<summary>
-Getting PRs merged
-</summary>
-
-# Getting PRs merged
-
-  
-Let me encourage you to take the PR that's at the head of the queue (i.e. the oldest one for your team), and if it's in a mergeable state (i.e. passing CI/CD, has peer code review, no outstanding changes requested) then deploy it to your QA branch, with a post like this one:
-
-```
-Deploying: sheila-pr-37-add-cow-death-controller
-PR https://github.com/ucsb-cs156-f22/f22-6pm-happycows/pull/62
-on QAs site; https://dashboard.heroku.com/apps/f22-6pm-4-happycows-qa
-Build Progress: https://dashboard.heroku.com/apps/f22-6pm-4-happycows-qa/activity/builds/c122de5b-20a5-4841-94c9-0621b7d51d1a
-```
-
-Like this: 
-
-<img width="576" alt="image" src="https://user-images.githubusercontent.com/1119017/171724637-deb8cb25-d881-45f5-9199-fbea38e9d800.png">
-
-That will help speed things along, because the PR that's "next up" to merged will be identified for us, and already deployed to the QA site.
-
-# Merge Conflicts
-
-Also, periodically, go through your PR queue (there's a link on each team's slack channel for convenience), and look at each PR for your team.  If you see this, then there are merge conflicts.
-
-<img width="988" alt="image" src="https://user-images.githubusercontent.com/1119017/171724762-5b3c801b-7315-49d3-8239-57d998e5a04d.png">
-
-
-If you can, fix them yourself.  If you can't then mark the PR with the "merge conflicts" label, and ping the person on your team that can fix them.
-
-# Out of date branches
-
-If you see this:
-
-<img width="994" alt="image" src="https://user-images.githubusercontent.com/1119017/171724954-b2e17c17-003a-4468-982d-6446dd0c266c.png">
-
-Then click to update the branch:
-
-<img width="253" alt="image" src="https://user-images.githubusercontent.com/1119017/171724999-e2d9d075-ace0-41e3-974b-4bc2d600cb83.png">
-
-
-All of this will help all of us get done with this final project (and the grading thereof) much more quickly!
-
-</details>
-  
 
 
 <details>
