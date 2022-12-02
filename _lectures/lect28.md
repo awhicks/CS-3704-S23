@@ -13,6 +13,7 @@ In previous quarters, there was always at least one (sometimes more than one) "p
 I think it's a testament both to the great staff: (Vivian, Bryan, Avishek and Andrew) as well as all of you.   Well done!
 
 For tonight:
+* **NSF Post Survey** Link is on Canvas and on Slack.
 * **ESCIs**: Please fill out your ESCIs.  It really really matters, especially because next year is my "once every three year performance evaluation" by the University.
 * **CATME**: There's a CATME survey due at midnight tonight.  
   - Maybe fill it out now?  Maybe right after class? 
