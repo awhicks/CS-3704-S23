@@ -5,6 +5,9 @@ desc: "Final Exam slot (presentations)"
 ready: true
 ---
 
+{% include drop_down_style.html %}
+
+
 Here is some information about the final exam and the final presentations.
 
 # Final Exam
@@ -74,3 +77,37 @@ Please describe a specific technical challenge that came up for you during the p
 |____|
 
 </details>
+
+# Final Presentations
+
+The order of presentations will be determined by rolling a 12 sided die with all of the team names on it.   That one dice roll will determine which team goes first,
+and in what order the teams present.
+
+<details>
+<summary>
+Details of how a die roll turns into the presentation order
+</summary>
+   
+Basically, each team has an equal chance of being either *first* or *last* in presentation order.   
+But once the order is determined, then we go by project, and by pairs of teams that worked on the same repo.
+   
+We'll group teams by project, so the canonical order is this (and this is the order we follow if `f22-5pm-1` happens to be the die roll:
+
+* Start with Courses in this order: f22-5pm-1, f22-5pm-2, f22-6pm-1, f22-6pm-2, f22-7pm-1, f22-7pm-2
+* Then Happy Cows in this order: f22-5pm-3, f22-5pm-4, f22-6pm-3, f22-6pm-4, f22-7pm-3, f22-7pm-4
+
+If we get a die roll other than `f22-5pm-1`, here's how the order changes:
+
+* As long as the team number is an odd number (-1 or -3), we pick that team and project and just go through each of the lists above wrapping around.
+* For example, if the team chosen is f22-6pm-3, the order will be:
+  - Happy Cows first: f22-6pm-3, f22-6pm-4, f22-7pm-3, f22-7pm-4, (wrap around), f22-5pm-3, f22-5pm-4
+  - Then Courses in this order: f22-6pm-1, f22-6pm-2, f22-7pm-1, f22-7pm-2, f22-5pm-1, f22-5pm-2
+
+* If the team number rolled is even (-2 or -4), we pick that team, and then go through the canonical order *backwards*, for each project, wrapping around.
+* For example, if the team chosen is f22-7pm-2, the order will be:
+  - Courses first: f22-5pm-2, f22-5pm-1, (wrap around backwards) f22-7pm-2, f22-7pm-1, f22-6pm-1, f22-6pm-1
+  - Then Happy Cows in this order: f22-5pm-4, f22-5pm-3, (wrap around backwards) f22-7pm-4, f22-7pm-3, f22-6pm-4, f22-6pm-3
+
+</details>
+
+
