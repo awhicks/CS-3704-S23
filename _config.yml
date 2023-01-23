@@ -38,6 +38,60 @@ lecture_days_of_week: MWF
 assigned_text: " assigned"
 due_text: " due "
 
+start_week: 0
+ start_date: 2023-01-18
+ num_weeks: 11
+ extra_exam_week: true
+
+ cal_dates: >
+   [                                                                            
+     {"label":"F22 1st day of instruction", "date":"2022-09-22" },
+     {"label":"Veterans Day", "date":"2022-11-11" },
+     {"label":"Thanksgiving Break", "date":"2022-11-24" },
+     {"label":"Thanksgiving Break", "date":"2022-11-25" },
+     {"label":"F22 instruction ends", "date":"2022-12-02" },
+     {"label":"F22 finals start", "date":"2022-12-03" },                     
+     {"label":"F22 CS156 FINAL (7:30-10:30pm)", "date":"2022-12-07" },                      
+     {"label":"F22 finals end", "date":"2022-12-09" },                          
+     {"label":"F22 qtr ends", "date":"2022-12-09" }                              
+   ]
+ gauchospace_course_page: https://gauchospace.ucsb.edu/courses/course/view.php?id=tbd
+ github_org_name: ucsb-cs156-f22
+ github_org_url: https://github.com/ucsb-cs156-f22
+ gradescope: https://www.gradescope.com/courses/379049
+
+ ta_list: "TBD and TBD"
+ ta_list_full: "First Last and First Last"
+ mentors_list: "Bryan Z, Andrew P"
+ discussion_section_times: "5pm,&nbsp;6pm,&nbsp7pm"
+ sections: "5pm,&nbsp;6pm,&nbsp;7pm"
+
+ mentor_url: https://ucsb-cs156.github.io/cs156-guide
+
+ hwk_drop_lowest: two
+
+ collections:
+   hwk:
+     output: true
+     permalink: /hwk/:path/
+     last_before: false
+   lab:
+     output: true
+     permalink: /lab/:path/
+     last_before: false
+   exam:
+     output: true
+     permalink: /exam/:path/
+   info:
+     output: true
+     permalink: /info/:path/
+   lectures:
+     output: true
+     permalink: /lectures/:path/
+   staff:
+     output: true
+     permalink: /staff/:path
+
 defaults:
   -
     scope:
