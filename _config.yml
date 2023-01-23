@@ -20,26 +20,26 @@ exclude:
    - LICENSE
    - .bundle
 
-timezone: America/Los_Angeles
+timezone: America/New_York
 
-url: https://ucsb-cs156.github.io # the base hostname & protocol for your site
-baseurl: /f22  # the subpath of your site, e.g. "/blog"
-github_url: https://github.com/ucsb-cs156/f22
+url: https://awhicks.github.io # the base hostname & protocol for your site
+baseurl: /CS-3704-S23  # the subpath of your site, e.g. "/blog"
+github_url: https://github.com/awhicks/CS-3704-S23
 
 
 
-course: "CS156"
-qtr: "F22"
-qxx: "f22"
-quarter: "Fall 2022"
+course: "CS3704"
+qtr: "S23"
+qxx: "S23"
+quarter: "Spring 2023"
 
-lecture_days_of_week: TR
+lecture_days_of_week: MWF
 
 assigned_text: " assigned"
 due_text: " due "
 
 start_week: 0
-start_date: 2022-09-18
+start_date: 2023-01-18
 num_weeks: 11
 extra_exam_week: true
 
