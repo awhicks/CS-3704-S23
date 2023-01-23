@@ -26,51 +26,9 @@ Instructions on installing these follow below.
    
    Download it here: <https://zoom.us/download>
 
-2. UCSB VPN Client (Pulse Secure)
+2. VSCode Text Editor for your local computer
 
-   What it does:
-   * Reroutes all your network traffic through the UCSB network, so that it appears that
-     your machine is directly connected to the UCSB Campus network
-
-   What it allows you to do:
-
-   * Access the textbooks for the course online without having to buy them.
-   * Mount your CSIL home directory as a shared network drive using Samba
-   * Graphically remote into CSIL
-
-
-   **Note:** In order to use Pulse Secure, you need to setup DUO (a two factor authentication app).
-   Here is a link for the instructions on how to set it up: <https://www.it.ucsb.edu/getting-started-mfa-duo/enroll-push-notification>
-
-   Where to get Pulse Secure:  <https://www.it.ucsb.edu/pulse-secure-campus-vpn/get-connected-vpn>
-
-3. Samba Access to your CSIL home directory
-
-   What it does:
-
-   * Mounts your CSIL home directory "as if" it were connected directly to your
-     computer.
-
-
-   What it allows you to do:
-   * Click on files on CSIL and open them in software on your own machine
-     (e.g. an editor such as Sublime Text, VSCode, or a web browser.)
-
-   Where to get it:
-   * You don't have to download anything (though you do need the UCSB VPN Client first)
-   * Instead, follow the instructions here:
-
-     | Platform | Text Instructions | YouTube Video Instructions |
-     |-|-|-|
-     | MacOS | [Text](https://ucsb-cs156.github.io/topics/csil_mount_drive_to_macOs_using_samba/)  | [Video](https://youtu.be/FTlxjhjwbt0) |
-     | Windows | [Text](https://ucsb-cs156.github.io/topics/CSIL/csil_mount_drive_to_windows_using_samba.html) | [Video](https://www.youtube.com/watch?v=fgORcrGWBH0) |
-     | Linux | (ask staff) | |
-     {:.table .table-sm .table-striped .table-bordered}
-
-4. VSCode Text Editor for your local computer
-
-   While `vim` and `emacs` are perfectly fine for the work you may have done in CS16/24/32, when it comes to 
-   professional level application development, it's time to graduate to some more professional tools.
+   While Eclipse is a perfectly fine IDE, we recommend using something you may be more likely to see in industry in this course.
    
    We have found that VSCode (a free download for Windows/Mac/Linux) is in the sweet spot between too few features, and too complicated.
   
@@ -102,7 +60,7 @@ For Mac users, instructions for installing with Homebrew appear below.
 
 ## Recommmended for MacOS Users
 
-If you have questions about this section, please ask on the [`#help-macos`](https://ucsb-cs156-f22.slack.com/archives/C0449H05QQG) channel on the Slack
+If you have questions about this section, please attend office hours or email the instructor.
 
 1. Command Line Tools XCode for MacOS, including `git`
 
@@ -201,13 +159,13 @@ It turns out that almost everything in terms of installing software (Java, Maven
 Therefore we strongly suggest that if you have a Windows environment, you install the Windows Subsystem for Linux (WSL) and then follow the 
 instructions under Linux/WSL.
    
-If you are unable to install WSL because of limitations on your machine, please reach out to the course staff via Slack using the [#help-windows](https://ucsb-cs156-f22.slack.com/archives/C0449GYQKKJ) channel on Slack. In that case, we will try to find an alternative for you.
+If you are unable to install WSL because of limitations on your machine, please reach out to the course staff via email. In that case, we will try to find an alternative for you.
  
 ## Recommended for Ubuntu Linux / WSL Users
  
-Instructions for installing Windows Subsystem for Linux (WSL), as well as environment setup instructions for Ubuntu systems, is available here: [https://ucsb-cs156.github.io/topics/windows_wsl/](https://ucsb-cs156.github.io/topics/windows/windows_wsl.html)
+Instructions for installing Windows Subsystem for Linux (WSL), as well as environment setup instructions for Ubuntu systems, is available here: [https://ucsb-cs156.github.io/topics/windows_wsl/](https://awhicks.github.io/topics/windows/windows_wsl.html)
 
-Native Ubuntu users (those not using Ubuntu through WSL) can skip the Windows-specific setup and go directly to [Install / Update Git on WSL](https://ucsb-cs156.github.io/topics/windows/windows_wsl.html#install--update-git-on-wsl) and follow all instructions from there on.
+Native Ubuntu users (those not using Ubuntu through WSL) can skip the Windows-specific setup and go directly to [Install / Update Git on WSL](https://awhicks.github.io/topics/windows/windows_wsl.html#install--update-git-on-wsl) and follow all instructions from there on.
 
 The following programs will be installed in the above guide:
 
