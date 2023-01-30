@@ -55,8 +55,6 @@ For Mac users, instructions for installing with Homebrew appear below.
    to have a consistent development environment, but running on your own machine.
    
    https://www.docker.com/products/docker-desktop
-   
-   We'll be recommending Docker as a platform for running the legacy code applications later in the quarter. -->
 
 ## Recommmended for MacOS Users
 
