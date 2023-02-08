@@ -39,13 +39,6 @@ Instructions on installing these follow below.
 2. Install Java 17 on your local system.  **Please install Java 17**, and NOT Java 8, Java 11, or a preview version of Java 18 or 19.   It won't matter for the `"Hello World"` program in the first week, but when we move on to complex Java applications involving third-party libraries, it will definitely matter.
    
 For Mac users, instructions for installing with Homebrew appear below.
-  
-<!-- 3. Docker
-
-   Docker provides a way for you to run a standardized Linux environment inside another platform (whether that be Windows, Mac, or Linux).  It gives us the ability
-   to have a consistent development environment, but running on your own machine.
-   
-   https://www.docker.com/products/docker-desktop
 
 ## Recommmended for MacOS Users
 
