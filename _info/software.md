@@ -145,9 +145,9 @@ If you are unable to install WSL because of limitations on your machine, please 
  
 ## Recommended for Ubuntu Linux / WSL Users
  
-Instructions for installing Windows Subsystem for Linux (WSL), as well as environment setup instructions for Ubuntu systems, is available here: [https://ucsb-cs156.github.io/topics/windows_wsl/](https://awhicks.github.io/topics/windows/windows_wsl.html)
+Instructions for installing Windows Subsystem for Linux (WSL), as well as environment setup instructions for Ubuntu systems, is available here: [https://ucsb-cs156.github.io/topics/windows_wsl/](https://ucsb-cs156.github.io/topics/windows/windows_wsl.html)
 
-Native Ubuntu users (those not using Ubuntu through WSL) can skip the Windows-specific setup and go directly to [Install / Update Git on WSL](https://ucsb-cs1456.github.io/topics/windows/windows_wsl.html#install--update-git-on-wsl) and follow all instructions from there on.
+Native Ubuntu users (those not using Ubuntu through WSL) can skip the Windows-specific setup and go directly to [Install / Update Git on WSL](https://ucsb-cs156.github.io/topics/windows/windows_wsl.html#install--update-git-on-wsl) and follow all instructions from there on.
 
 The following programs will be installed in the above guide:
 
