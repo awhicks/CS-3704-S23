@@ -17,16 +17,7 @@ Instructions on installing these follow below.
 
 ## Recommmended for Everyone
 
-
-1. Zoom Client 
-
-   Be sure that you have the *latest* version of the Zoom client.  Older versions may not have some of the features we'll need for this course.
-    
-   If you click on "About Zoom" inside zoom, you want a version that is 5.9.1 or later.
-   
-   Download it here: <https://zoom.us/download>
-
-2. VSCode Text Editor for your local computer
+1. VSCode Text Editor for your local computer
 
    While Eclipse is a perfectly fine IDE, we recommend using something you may be more likely to see in industry in this course.
    
@@ -45,11 +36,11 @@ Instructions on installing these follow below.
    Download it here: <https://code.visualstudio.com/download>
   
   
-5. Install Java 17 on your local system.  **Please install Java 17**, and NOT Java 8, Java 11, or a preview version of Java 18 or 19.   It won't matter for the `"Hello World"` program in the first week, but when we move on to complex Java applications involving third-party libraries, it will definitely matter.
+2. Install Java 17 on your local system.  **Please install Java 17**, and NOT Java 8, Java 11, or a preview version of Java 18 or 19.   It won't matter for the `"Hello World"` program in the first week, but when we move on to complex Java applications involving third-party libraries, it will definitely matter.
    
 For Mac users, instructions for installing with Homebrew appear below.
   
-<!-- 6. Docker
+<!-- 3. Docker
 
    Docker provides a way for you to run a standardized Linux environment inside another platform (whether that be Windows, Mac, or Linux).  It gives us the ability
    to have a consistent development environment, but running on your own machine.
@@ -163,7 +154,7 @@ If you are unable to install WSL because of limitations on your machine, please 
  
 Instructions for installing Windows Subsystem for Linux (WSL), as well as environment setup instructions for Ubuntu systems, is available here: [https://ucsb-cs156.github.io/topics/windows_wsl/](https://awhicks.github.io/topics/windows/windows_wsl.html)
 
-Native Ubuntu users (those not using Ubuntu through WSL) can skip the Windows-specific setup and go directly to [Install / Update Git on WSL](https://awhicks.github.io/topics/windows/windows_wsl.html#install--update-git-on-wsl) and follow all instructions from there on.
+Native Ubuntu users (those not using Ubuntu through WSL) can skip the Windows-specific setup and go directly to [Install / Update Git on WSL](https://ucsb-cs1456.github.io/topics/windows/windows_wsl.html#install--update-git-on-wsl) and follow all instructions from there on.
 
 The following programs will be installed in the above guide:
 
