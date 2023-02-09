@@ -122,7 +122,7 @@ We also want to set up `git` so that it records our commits properly.
 
 ## Step 6: Finding your jpa00 repo on GitHub
 
-Open a web browser and login to GitHub, then navigate to the course organization page, [CS-3704-spring-2023](https://classroom.github.com/classrooms/122842685-cs-3704-spring-2023).
+Open a web browser and login to GitHub, then navigate to the [assignment invite link](https://classroom.github.com/a/YvXchMhy).
 
 You should see that there is a private repo in this organization called `jpa00-yourGithubId`, where `yourGithubId` is replaced with your GitHub id.  This is the repo that you'll be using for this assignment.
 
