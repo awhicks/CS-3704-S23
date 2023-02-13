@@ -200,13 +200,13 @@ Then, type `mvn package`.  You should see a lot of output, but somewhere in that
 That indicates that you have built a `.jar` (or Java Archive) file.  This file is a compressed archive of all of the compiled Java code from your program.  You can run it with this command:
 
 ```
-java -cp target/hello-1.0.0.jar Hello
+java -cp target/hello-1.0.0.jar edu.vt.gradescope.Hello
 ```
 
 You should see output like this:
 
 ```
-% java -cp target/hello-1.0.0.jar Hello
+% java -cp target/hello-1.0.0.jar edu.vt.gradescope.Hello
 This is the wrong output!
 % 
 ```
