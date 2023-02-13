@@ -332,7 +332,7 @@ Test this locally by compiling and running the code:
 ```
 mvn compile
 mvn package
-java -cp target/hello-1.0.0.jar Hello
+java -cp target/hello-1.0.0.jar edu.vt.gradescope.Hello
 ```
 
 You should see the correct output, `Hello, World!`.
