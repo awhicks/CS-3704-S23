@@ -1,42 +1,7 @@
----
-desc: "Testing: test coverage and mutation testing"
-assigned: 2022-09-27 13:00
-due: 2022-10-09 23:59
-layout: lab
-num: jpa01
-ready: true
-course_org: https://github.com/ucsb-cs156-f22
-course_org_name: ucsb-cs156-f22
-starter_repo: https://github.com/ucsb-cs156-f22/STARTER-jpa01
----
-
-<style>
-
-
-summary { 
-   border: 4px solid green;
-   padding: 1em;
-   background-color: #ffe;
-   margin-bottom: 1em;
-}
-
-details { 
-  margin-top: 1em;
-  margin-bottom: 1em;
-  margin-left: auto;
-  margin-right: auto;
-  width: 80%;
-  border: 4px solid blue;
-  padding: 1em;
-  }
-
-
-</style>
-
 This assignment is `jpa01`, i.e "Java Programming Assignment 01".
 
 If you find typos or problems with the lab instructions, please report
-them on the #typos channel on Slack
+them via email
 
 In this lab:
 
@@ -52,7 +17,6 @@ Before starting this lab, whether you are brand new to Java, or even if you are 
 * <https://ucsb-cs156.github.io/tutorials/student/>
 
 Most of this lab is concerned with really basic object-oriented programming: getters, setters, and simple methods of a class.
-
 However, there are a few concepts that may be new even to the most experienced Java programmers:
 
 It covers some concepts that may be new to you, even if you have worked with Java before, including:
@@ -62,35 +26,6 @@ It covers some concepts that may be new to you, even if you have worked with Jav
 * Code Coverage (with Jacoco)
 * Mutation Testing (with Pitest)
 * Exceptions (`try`, `catch`, and how Exceptions work in Java)
-
-You may also want to read ahead in the Head First Java book (HFJ2), or use the Java in a Nutshell v7 text (JN7) if you encounter Java concepts with which you are unfamiliar.
-
-## Working in a pair?
-
-You have the option to work in a pair on this assignment.
-
-To set up a pair repo, see these instructions: [Pair Repo Setup](https://ucsb-cs156.github.io/topics/git_pair_repo/).
-
-In addition:
-* Read about [Strong Style Pairing](http://llewellynfalco.blogspot.com/2014/06/llewellyns-strong-style-pairing.html) and consider trying it.
-* If you are working in aSwitch navigator/driver frequently and tradeoff who commits
-
-If you are in your repo directory, and type `git log` at the command
-line, you'll see a list of the commits for your repo.
-
-Record that you are pairing on each commit message by putting the
-initials of the pair partners at the start of the commit message.
-
-E.g. If Selena Gomez is driving, and Justin Timberlake is
-navigating, and you fixed a bug in your `getDanceMoves()` method, your
-commit message should be `SG/JT fixed bug in getDanceMoves()`
-
-We should see frequent switches between SG/JT and JT/SG.
-
-When remote pairing, this means switching who is sharing their screen:
-* The person driving pushes the repo.
-* You switch who is sharing the screen
-* Then, the other person pulls from the repo.
 
 Step-by-Step
 ============
@@ -102,41 +37,19 @@ When cloning your repo, be sure to use *only the ssh* links.
   indicating that "a GitHub Action cannot be accessed from an OAuth login" or something like that.
 * Using ssh instead of https gets around this problem.
 
-You may work individually or as a pair on this lab.  However, if you work as a pair, please:
-* Pair with someone from your same team, or at least, from your same
-  discussion section.
-* Remember to name the repo correctly, and also to add your pair on [Gradescope]({{page.gradescope}}) each time you submit
-
-The starter code is in <{{page.starter_repo}}>.  Visit that page for the approrpiate URL to add the `starter` remote.
-
-To add the starter as a remote, cd into the repo you cloned, then do:
-
-<div>
-<tt>git remote add starter {{page.starter_repo}} </tt>
-</div>
-
-Then do:
-```
-git checkout -b main
-git pull starter main
-git push origin main
-```
-
-That should get you set up with the starter code.
-
 # Step 1: Get oriented to packages
 
 A few things to notice:
 
 * Under `src`, there are two directory trees:
-   * `src/main/java/edu/ucsb/cs56/pconrad/menuitems` contains regular Java classes.
-   * `src/test/java/edu/ucsb/cs56/pconrad/menuitems` contains the test classes.
+   * `src/main/java/edu/vt/cs3704/awh4kc/menuitems` contains regular Java classes.
+   * `src/test/java/edu/vt/cs3704/awh4kc/menuitems` contains the test classes.
 
-Don't change the package from `pconrad` to your name; the Gradescope autograder is looking for the code under the `edu.ucsb.cs56.pconrad.menuitems` package.
+Don't change the package from `awh4kc` to your name; the Gradescope autograder is looking for the code under the `edu.vt.cs3704.awh4kc.menuitems` package.
 So each source file:
 
 * must be under that directory path when it is compiled, and
-* must have `package edu.ucsb.cs56.pconrad.menuitems;` as the first line in the file
+* must have `package edu.vt.cs3704.awh4kc.menuitems;` as the first line in the file
 
 Here are the commands you'll need as you work with the code. Try them out now.
 
@@ -155,10 +68,6 @@ Here are the commands you'll need as you work with the code. Try them out now.
 In this lab, you'll be implementing several methods of a class called `MenuItem` that represents
 item on a restaurant Menu.
 
-(There is a follow up lab in which we will add a `Menu` class that uses these menu items; but
-we need to discuss sorting, `java.lang.Comparable`, `java.util.Comparator`,
-and Java lambda expressions in lecture first before we get to that.)
-
 A `MenuItem` represents an item on the menu of a restaurant.  It has three attributes:
 * the menu item name, e.g. `"Small Poke Bowl"`
 * the price, in cents (e.g an item that costs $1.49 is represented by the integer 149)
@@ -170,9 +79,6 @@ Note that the starter code:
 * Has unit tests for SOME of the needed methods, but NOT ALL of them
 
 YOU WILL NEED TO WRITE SOME OF YOUR OWN TESTS.
-
-So you'll need to do a bit more work than you may be used to.
-
 
 I suggest that you work in this order:
 * <b>First, Add stubs for all of the methods that don't have them yet.</b>  
@@ -232,28 +138,18 @@ We can automatically compute "test case coverage", using a tool call JaCoCo (Jav
 
 Read these short articles about test coverage before moving to step 4:
 * <https://ucsb-cs156.github.io/topics/testing/>
-* <https://ucsb-cs156.github.io/topics/testing_jacoco_reports/>
 
 Once you've looked over those, it's time to check your test coverage, which
 we'll do in Step 4.
 
 # Step 4: Checking Test Case Coverage
 
-Be sure that you've added your pair partner to your submissions on Gauchospace
-
-
-Then, check your test coverage!
-
+Check your test coverage!
 
 ## Checking Test Case Coverage Locally.
 
 * Run: `mvn test jacoco:report`
 * Then, open the file `target/site/jacoco/index.html` in a browser.
-
-*How* you go about that depends a lot on your setup.   
-* On CSIL, we suggest mounting your home directory with Samba so that you can navigate to the `target/site/jacoco/index.html` file from your
-  computer, and double click on it to open it.
-* Instructions for that are here for [Windows](https://ucsb-cs156.github.io/topics/csil_mount_drive_to_windows_using_samba/) and [MacOS](https://ucsb-cs156.github.io/topics/csil_mount_drive_to_macOs_using_samba/)  
   
 # How to read the test coverage reports
 
@@ -340,8 +236,7 @@ you can get.  At that point, you run:
 mvn test org.pitest:pitest-maven:mutationCoverage
 ```
 
-(Yeah, no one is going to expect you to memorize that command.
-We might expect you to know `mvn compile`, `mvn package`, and `mvn test`, and maybe even `mvn test jacoco:report`, but not this one.)
+(Yeah, no one is going to expect you to memorize that command.)
 
 When you run that command, your file `MenuItem.java` will be *mutated*; the pitest software will create mutant versions of that code in an attempt to deliberately introduce bugs.  A mutant is killed when your test suite finds the bug.  It survives when your test suite doesn't kill the bug.
 
