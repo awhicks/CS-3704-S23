@@ -112,14 +112,13 @@ public MenuItem(String name,
 Here are the instance methods you'll need to implement for `MenuItem`
 
 | Modifier and Type	| Method | Description |
-|-|-|
+|-|-|-|
 |`String`	| `getCategory()` | Returns the category of the menu item |
 |`String`	| `getName()` | Returns the name of the menu item |
 |`String`	| `getPrice()` | Returns the price, formatted as a string with a $.
 |`String`	| `getPrice(int width)` | Returns the price, formatted as a string with a $, right justified in a field with the specified width. |
 | `int`	| `getPriceInCents()` | get the price in cents only |
 | `String`	| `toString()` | return a string in csv format, in the order name,price,cateogry. <br> For example: `"Small Poke Bowl,1049,Poke Bowls"`<br>In this case, the price is unformatted; just an integer number of cents. |
-{:.table .table-sm .table-striped .table-bordered}
 
 
 ## Checking the tests
