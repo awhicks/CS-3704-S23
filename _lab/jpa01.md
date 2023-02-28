@@ -304,17 +304,13 @@ web browser.  That will show you the Pitest mutation report.
 
 Gradescope will run the mutation testing on your solution, and award points proportionately depending on how many you kill.
 
-Now: since the mutants are based on your *your individual solution*, it is impossible to know in advance how many there will be, or what they will be.  But you can investigate by looking at the report.
+Now: since the mutants are based on your *your individual solution*, it is impossible to know in advance how many there will be, or what they will be.  But you can investigate by looking at the report. 
 
 
 
 # Step 6: Before final submission on Gradescope
 
 Look for jpa01 on Gradescope.
-
-If working in a pair:
-* Make sure that your README.md file has your github id(s) and name(s) 
-* Make sure that both of your names are attached to your Gradescope submission.
 
 
 # End of description for {{page.num}}
